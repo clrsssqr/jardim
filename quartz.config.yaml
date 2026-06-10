@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Jardim da Clarisse
+  pageTitle: Clarisse Siqueira
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -21,11 +21,11 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
+        light: "#c6b89e"
+        lightgray: "#6bb192"
         gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
+        darkgray: "#610289"
+        dark: "##610289"
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
