@@ -1,1 +1,0 @@
-Essa é minha nota sobre mim.
