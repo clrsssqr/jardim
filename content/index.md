@@ -12,3 +12,7 @@ A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui 
 - Entendendo na prática os jardins digitais
 - Design pela [Ventarola] (ventarola.com)
 - Dando aula de *motion design* na graduação e pós-graduação da ECDD.
+
+# Contato
+
+contato@clarissesiqueira.com
