@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: clrsssqr.github.io/quartz
+  baseUrl: clrsssqr.github.io/jardim
   ignorePatterns:
     - private
     - templates
