@@ -1,6 +1,6 @@
 Grande parte da minha pesquisa atual investiga a relação entre imagem e realidade. Como parto da modernidade, algumas questões são levantadas nessa relação:
 
-- [[A Imagem Fora da História]].
+- [[A Arte Fora da História]].
 - [[Mímese da Realidade na Pintura Ocidental]].
 - [[A laicização da arte europeia no Iluminismo]]
 - As novas verossimilhanças na imagem técnica
