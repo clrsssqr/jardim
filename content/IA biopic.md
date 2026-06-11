@@ -1,0 +1,1 @@
+Gastando os réditos no kling, também fiz minha biopic. Fiz até 3 versões. A primeira foi mais um homem branco. A segunda e a terceira virei asiática. O que realmente se revelou verdade no auto retrato.
