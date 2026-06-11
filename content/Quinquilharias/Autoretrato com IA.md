@@ -8,3 +8,8 @@ O acaso do previsível.
 
 O arquivo que me forjou e o que forjou a IA.
 
+Prompts:
+1. Uma pessoa de 46 anos, muito religiosa e que estuda muito.
+2. Uma pessoa de 46 anos, muito religiosa e que estuda muito, com dois filhos e muito atarefada
+kling.ai - 11-06-2026
+

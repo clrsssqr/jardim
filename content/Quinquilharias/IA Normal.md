@@ -7,3 +7,5 @@ Sobraram créditos de IA na kling, de um trabalho que fiz. Resolvi ver o que ela
  ![[ia_normal1.jpg]]
 
 ![[ia_normal3.jpg]]
+
+![[familia1.jpg]]![[familia2.jpg]]
