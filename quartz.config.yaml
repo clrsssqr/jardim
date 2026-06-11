@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Raleway
-      body: Raleway
+      header: raleway
+      body: raleway medium
       code: IBM Plex Mono
     colors:
       lightMode:
