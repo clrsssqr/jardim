@@ -3,7 +3,7 @@ Arnold Hauser
 Tomo II
 Sexta Parte -  Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
-# **Capítulo I - Dissolução da Arte Cortesã
+# **Capítulo I - Declínio da Arte Cortesã
 
 %% O fim da época de Luís XIV. A Regência. A nova riqueza da burguesia. O ideal Voltairiano da cultura. Watteau. A poesia Pastoril. O romance heróico e o de amor. O romance psicológico. O triunfo dos temas amorosos na literatura. Marivaux. O conceito de rocoó. Boucher. Greuze e Chardin.
  %%

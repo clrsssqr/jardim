@@ -5,16 +5,16 @@ Sexta Parte -  Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
 
 
-# **Capítulo I - Queda da Arte Cortesã
+# **Capítulo I - Declínio da Arte Cortesã**
 
  O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 
 **A teste de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que é um processo gradual e ambíguo.** 
 
-Ver mais em [[Hauser - P6 - Cap. I - Dissolução da Arte Cortesã]]
+Ver mais em [[Hauser - P6 - Cap. I - Declínio da Arte Cortesã]]
 
 ---
-# **Capítulo II - O Novo Público Leitor
+# Capítulo II - O Novo Público Leitor
 
 O capítulo 2 se muda da França para a Inglaterra, que Hauser trata como o grande laboratório da modernização burguesa. A preocupação do autor é mostrar como o surgimento de um público leitor anônimo e numeroso toma o lugar do mecenas individual e muda drasticamente a produção literária. Esse processo econômico também gera, como reação, o pré-romantismo.
 
