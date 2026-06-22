@@ -1,12 +1,12 @@
 ---
 title: Olá!
 ---
-![[autorretratoia_600.png]]
-
 Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e arte publicamente (ainda que escondidinho), inspirada no conceito de jardim digital. Tem um quê de nostalgia dos sites que diziam "aqui você vai encontrar fotos minhas, letras de música" e um gif de um operário dizendo "este site está eternamente em construção". 
 
 A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui você vai encontrar pensamentos soltos e desestruturados e algumas coisas mais ajeitadinhas. Se tudo der certo. Veremos!
 
+
+![[autorretratoia_600.png|237]]
 # Agora
 
 O que ando fazendo:
