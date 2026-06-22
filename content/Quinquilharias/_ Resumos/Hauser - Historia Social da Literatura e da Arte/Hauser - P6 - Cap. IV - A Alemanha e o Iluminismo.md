@@ -4,7 +4,7 @@ Tomo II
 Sexta Parte -  Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
 
-# **Capítulo IV - A Alemanha e o Iluminismo**
+# Capítulo IV - A Alemanha e o Iluminismo
 
 %% A imaturidade política da burguesia alemã. O particularismo do Alemão. A indiferença da 'inteligência' alemã perante a vida pública. A metrópole a vida literária livre. A estetitização da concepção filosófica do mundo. O novo conceito de gênio. O vitalismo da *Sturm and Drang*. O racionalismo. Herder. Goethe e a burguesia. A ideia de literatura universal. %%
 
