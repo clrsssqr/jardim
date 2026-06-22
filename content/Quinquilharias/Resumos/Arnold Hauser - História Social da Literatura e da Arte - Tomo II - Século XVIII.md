@@ -3,7 +3,6 @@
 
 # **Capítulo I
 
-
 > O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 > 
 > **A teste de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que é um processo gradual e ambíguo.** 
@@ -74,7 +73,6 @@ O argumento mais original do capítulo é, porém, a tese sociológica sobre a *
 Por fim, Hauser fecha o capítulo traçando a linhagem que vai do Sturm und Drang, através do posterior conservadorismo "superburguês" de Goethe e Schiller (a tensão entre as três gerações de Kabale und Liebe é o exemplo dado), até Ibsen e Shaw — **mostrando como o próprio drama burguês se torna, com o tempo, instrumento de autocrítica e até de ataque às convenções e ao moralismo da classe que o criou**.
 
 ---
-
 # **Capítulo IV**
 dsjhh\g
 
