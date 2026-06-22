@@ -1,12 +1,10 @@
 
----
 
 # **Capítulo I
 
-> O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do
-> nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da
-> política e da economia até a pintura e o romance, sempre voltando para fundamentar como a
-> ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
+
+
+> O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 > 
 > **A teste de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que é um processo gradual e ambíguo.** 
 
