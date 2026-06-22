@@ -2,7 +2,7 @@
 
 [[Gombrich - Arte e Ilusão]]
 
-Hauser - [[Hauser - P6 - Rococó, Classicismo e Romantismo]]
+Hauser - [[_Hauser - P6 - Rococó, Classicismo e Romantismo]]
 
 Jones - [[Jones - A Arte do Século XVIII]]
 

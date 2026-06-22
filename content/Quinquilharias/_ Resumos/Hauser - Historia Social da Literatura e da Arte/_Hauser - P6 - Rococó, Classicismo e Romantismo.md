@@ -5,7 +5,7 @@ Sexta Parte -  Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
 
 
-# **Capítulo I - Declínio da Arte Cortesã**
+# Capítulo I - Declínio da Arte Cortesã
 
  O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 
@@ -23,7 +23,7 @@ O capítulo 2 se muda da França para a Inglaterra, que Hauser trata como o gran
 Ver mais em [[Hauser - P6 - Cap. II - O Novo Público Leitor]]
 
 ---
-# **Capítulo III - As Origens do Drama Doméstico
+# Capítulo III - As Origens do Drama Doméstico
 
 Hauser constrói uma teoria sociológica da tragédia através do nascimento do drama burguês
 
@@ -32,7 +32,7 @@ Hauser constrói uma teoria sociológica da tragédia através do nascimento do 
 Ver mais em [[Hauser - P6 - Cap. III - As Origens do Drama Doméstico]]
 
 ---
-# **Capítulo IV - A Alemanha e o Iluminismo**
+# Capítulo IV - A Alemanha e o Iluminismo
 
 Hauser mostra porque o Iluminismo e o pré-romantismo alemães seguem um caminho tão diferente do francês e do inglês sob o viés sociológico.
 
