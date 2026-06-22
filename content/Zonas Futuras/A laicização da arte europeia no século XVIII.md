@@ -1,5 +1,5 @@
 
-[[_Hauser - P6 - Rococó, Classicismo e Romantismo]]
+[[Hauser - Rococó, Classicismo e Romantismo]]
 
 [[Bessière]]
 
