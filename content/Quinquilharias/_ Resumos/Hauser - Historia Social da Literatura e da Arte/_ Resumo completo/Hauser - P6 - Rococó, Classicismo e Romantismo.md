@@ -5,7 +5,7 @@ Sexta Parte -  Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
 
 
-# **Capítulo I - Dissolução da Arte Cortesã
+# **Capítulo I - Queda da Arte Cortesã
 
  O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 
@@ -27,15 +27,17 @@ Ver mais em [[Hauser - P6 - Cap. II - O Novo Público Leitor]]
 
 Hauser constrói uma teoria sociológica da tragédia através do nascimento do drama burguês
 
-**Hauser observa que o drama doméstico do século XVIII é, desde o início, uma forma deliberadamente polêmica e programática, nascida do choque entre a burguesia ascendente e a aristocracia. A inovação vai além da temática de levar a vida cotidiana da classe média ao palco, porque em sua estrutura o drama burguês substituiu o herói trágico isolado, autônomo e definido por uma vontade própria (o modelo da tragédia clássica) por um indivíduo inteiramente condicionado pelo seu ambiente material e social. Dessa mudança de base filosófica decorre, para Hauser, uma grande consequência: o drama burguês, por dissolver a culpa trágica em psicologia e determinismo social, é estruturalmente incapaz de produzir tragédia no sentido clássico. Assim, o gênero verdadeiramente representativo do Iluminismo burguês não é o drama, mas o romance. Só mais tarde, quando a própria burguesia se sentir ameaçada (com Ibsen), o drama burguês conseguirá alcançar uma tragicidade genuína.**
+**Hauser observa que o drama doméstico do século XVIII é, desde o início, uma forma deliberadamente polêmica e programática, nascida do choque entre a burguesia ascendente e a aristocracia. A inovação vai além da temática de levar a vida cotidiana da classe média ao palco, porque em sua estrutura o drama burguês substituiu o herói trágico isolado, autônomo e definido por uma vontade própria (o modelo da tragédia clássica) por um indivíduo inteiramente condicionado pelo seu ambiente material e social. Dessa mudança de base filosófica decorre, para Hauser, uma consequência significativa: o drama burguês, por dissolver a culpa trágica em psicologia e determinismo social, é estruturalmente incapaz de produzir tragédia no sentido clássico. Assim, o gênero verdadeiramente representativo do Iluminismo burguês não é o drama, mas o romance. Só mais tarde, quando a própria burguesia se sentir ameaçada (com Ibsen), o drama burguês conseguirá alcançar uma tragicidade genuína.**
 
 Ver mais em [[Hauser - P6 - Cap. III - As Origens do Drama Doméstico]]
 
 ---
-# **Capítulo IV**
+# **Capítulo IV - A Alemanha e o Iluminismo**
 
 Hauser mostra porque o Iluminismo e o pré-romantismo alemães seguem um caminho tão diferente do francês e do inglês sob o viés sociológico.
 
- **A tese central é que a peculiaridade do espírito alemão — seu idealismo filosófico, seu subjetivismo exacerbado, sua tendência à interiorização e à abstração — não é um traço nacional permanente, mas o resultado direto da imaturidade política da burguesia alemã, ela própria consequência de fatores econômicos e históricos concretos (o deslocamento das rotas comerciais, a Guerra dos Trinta Anos, o particularismo dos príncipes territoriais). Excluída da vida pública e da ação política efetiva, a "inteligência" burguesa alemã refugia-se num mundo de especulação interior, e é exatamente essa retirada para dentro de si mesma que gera, paradoxalmente, tanto o conceito alemão de gênio quanto o idealismo filosófico de Kant e a estetização de toda a visão de mundo. O movimento Sturm und Drang e, depois, o classicismo de Weimar são, para Hauser, duas respostas diferentes — uma vitalista e rebelde, outra disciplinada e formal — ao mesmo problema de fundo: uma burguesia culta e progressista que não tem onde exercer poder real fora da literatura e da filosofia.**
+ **A tese do capítulo é de que a peculiaridade do espírito alemão — com seu idealismo filosófico, seu subjetivismo exacerbado, sua tendência à interiorização e à abstração — não é um traço nacional permanente, mas o resultado direto da imaturidade política da burguesia alemã, ela própria consequência de fatores econômicos e históricos concretos, como a mudança das rotas comerciais, a Guerra dos Trinta Anos e o particularismo dos príncipes territoriais. Excluída da vida pública e da ação política efetiva, a "inteligência" burguesa alemã teria se refugiado num mundo de especulação interior. Essa fuga para dentro de si mesma que teria gerado, contraditoriamente, tanto o conceito alemão de gênio quanto o idealismo filosófico de Kant e a estetização de toda a visão de mundo. O movimento *Sturm und Drange*, depois, o classicismo de Weimar são, para Hauser, duas respostas diferentes — uma vitalista e rebelde, outra disciplinada e formal — ao mesmo problema de uma burguesia culta e progressista que não tem onde exercer poder real fora da literatura e da filosofia.**
+
+Ver mais em [[Hauser - P6 - Cap. IV - A Alemanha e o Iluminismo]]
 .
 
