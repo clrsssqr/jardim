@@ -1,6 +1,6 @@
 -Não apenas a origem ([[Perspectiva]] e [[Chiaroscuro]] + [[Óptica]] e a [[Percepção Visual]]), mas também a [[Imagem como Poder da Igreja e da Monarquia na Europa]] da igreja e pela monarquia. 
 
-[[Gombrich - Arte e Ilusão]]
+[[Zonas Futuras/Futuras 1/Futuras 2/Futuras 3/Gombrich - Arte e Ilusão]]
 
 Hauser - [[Hauser - Rococó, Classicismo e Romantismo]]
 

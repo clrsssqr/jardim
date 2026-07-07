@@ -1,11 +1,12 @@
 Arnold Hauser
 *História Social da Literatura e da Arte*
 Tomo II
-Sexta Parte -  Rococó, Classicismo e Romantismo
+Sexta Parte - Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
+
 # Capítulo III - As Origens do Drama Doméstico
 
-%% O drama a serviço do choque entre as várias camadas sociais. O caráter Social do herói dramático. O significado do ambiente no drama doméstico. O problema do crime passional. Liberdade e necessidade. A atitude trágica e não-trágica perante a vida.  %%
+*O drama a serviço do choque entre as várias camadas sociais. O caráter Social do herói dramático. O significado do ambiente no drama doméstico. O problema do crime passional. Liberdade e necessidade. A atitude trágica e não-trágica perante a vida.*
 
 > Hauser constrói uma teoria sociológica da tragédia através do nascimento do drama burguês
 > 

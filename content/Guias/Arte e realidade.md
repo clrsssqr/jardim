@@ -5,3 +5,4 @@ Grande parte da minha pesquisa atual se dá na relação entre arte e realidade.
 - [[A laicização da arte europeia no século XVIII]] 
 - [[A arte fora da história]] 
 - [[A imagem na cultura de massa]]
+

@@ -1,12 +1,12 @@
 Arnold Hauser
 *História Social da Literatura e da Arte*
 Tomo II
-Sexta Parte -  Rococó, Classicismo e Romantismo
+Sexta Parte - Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
+
 # Capítulo I - Declínio da Arte Cortesã
 
-%% O fim da época de Luís XIV. A Regência. A nova riqueza da burguesia. O ideal Voltairiano da cultura. Watteau. A poesia Pastoril. O romance heróico e o de amor. O romance psicológico. O triunfo dos temas amorosos na literatura. Marivaux. O conceito de rocoó. Boucher. Greuze e Chardin.
- %%
+*O fim da época de Luís XIV. A Regência. A nova riqueza da burguesia. O ideal Voltairiano da cultura. Watteau. A poesia Pastoril. O romance heróico e o de amor. O romance psicológico. O triunfo dos temas amorosos na literatura. Marivaux. O conceito de rocoó. Boucher. Greuze e Chardin.*
  
 > O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 > 

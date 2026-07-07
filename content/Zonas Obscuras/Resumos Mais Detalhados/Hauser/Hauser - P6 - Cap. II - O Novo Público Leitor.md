@@ -1,11 +1,12 @@
 Arnold Hauser
 *História Social da Literatura e da Arte*
 Tomo II
-Sexta Parte -  Rococó, Classicismo e Romantismo
+Sexta Parte - Rococó, Classicismo e Romantismo
 São Paulo: Editora Mestre Jou, 1972.
+
 # Capítulo II - O Novo Público Leitor
 
-%% A monarquia inglesa e os esteios liberais da sociedade. O parlamento. Os novos periódicos e os leitores da classe média. A literatura a serviço da política. Defoe e Swift. As modificações da vida literária. Ressurreição e morte do espírito mecenático. Subscrição e publicação. O pré-romantismo. A revolução industrial. A nova ética do trabalho. A ideologia da liberdade. O individualismo. O emocionalismo. O moralismo. O regresso à natureza. Richardson. Rousseau. As consequências estilísticas do concerto público. %%
+*A monarquia inglesa e os esteios liberais da sociedade. O parlamento. Os novos periódicos e os leitores da classe média. A literatura a serviço da política. Defoe e Swift. As modificações da vida literária. Ressurreição e morte do espírito mecenático. Subscrição e publicação. O pré-romantismo. A revolução industrial. A nova ética do trabalho. A ideologia da liberdade. O individualismo. O emocionalismo. O moralismo. O regresso à natureza. Richardson. Rousseau. As consequências estilísticas do concerto público.*
 
 >  O capítulo 2 se muda da França para a Inglaterra, que Hauser trata como o grande laboratório da modernização burguesa. A preocupação do autor é mostrar como o surgimento de um público leitor anônimo e numeroso toma o lugar do mecenas individual e muda drasticamente a produção literária. Esse processo econômico também gera, como reação, o pré-romantismo.
 > 
