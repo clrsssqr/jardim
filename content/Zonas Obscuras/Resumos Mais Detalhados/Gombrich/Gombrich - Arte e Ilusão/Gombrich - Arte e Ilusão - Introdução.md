@@ -51,14 +51,65 @@ Gombrich, então, aponta uma interseção entre o campo da arte e da ilusão. (p
 
 O autor, então, menciona como as inovações pictóricas dos mestres do passado que criam a ilusão na arte são hoje conhecimento consolidado e acessível pelas pessoas. Ele também ressalta como o mundo de então (1959) é mais que nunca habitado por imagens. (p.6)
 
->Que as descobertas e efeitos de representação, que eram orgulho de artistas de outros tempos, tenham ficado hoje triviais, é coisa que não nego por um só momento. E, todavia, acredito que estaremos em perigo de perder contato com os grandes mestres do passado e aceitarmos a doutrina, tão em moda, de que essas questões nunca tiveram nada a ver com arte. O motivo pelo qual a representação da natureza pode ser hoje vista como coisa banal deve ser do maior interesse para o historiador. Nunca houve uma época como a nossa, em que a imagem visual fosse tão barata, em qualquer sentido que se tome a palavra. Estamos cercados, investidos, por cartazes e eanúncios, por histórias em quadrinhos e ilustrações de revistas. vemos aspectos da realidade representados nas telas de televisão e cinema, em selos postais e embalagens de comida. A pintura é ensinada na escola e praticada em casa como terapia e passatempo, e muito amador domina truques que pareceriam pura mágica a Giotto.(...) Mas penso que a vulgarização e os estratagemas da representação podem criar um problema tanto para o historiador quanto para o crítico. (p.6-7)
+>Que as descobertas e efeitos de representação, que eram orgulho de artistas de outros tempos, tenham ficado hoje triviais, é coisa que não nego por um só momento. E, todavia, acredito que estaremos em perigo de perder contato com os grandes mestres do passado e aceitarmos a doutrina, tão em moda, de que essas questões nunca tiveram nada a ver com arte. O motivo pelo qual a representação da natureza pode ser hoje vista como coisa banal deve ser do maior interesse para o historiador. Nunca houve uma época como a nossa, em que a imagem visual fosse tão barata, em qualquer sentido que se tome a palavra. Estamos cercados, investidos, por cartazes e anúncios, por histórias em quadrinhos e ilustrações de revistas. vemos aspectos da realidade representados nas telas de televisão e cinema, em selos postais e embalagens de comida. A pintura é ensinada na escola e praticada em casa como terapia e passatempo, e muito amador domina truques que pareceriam pura mágica a Giotto.(...) Mas penso que a vulgarização e os estratagemas da representação podem criar um problema tanto para o historiador quanto para o crítico. (p.6-7)
 
-Gombrich contrasta essa vulgarização do convívio e da produção de imagens com o "maravilhamento" diante do fato de como, por meio de traços e cores, se cria uma imagem.
+Gombrich contrasta essa vulgarização do convívio e da produção de imagens com o "maravilhamento" diante do fato de como, por meio de traços e cores, se cria uma imagem. (p.7)
 
 >(...) O principal objetivo que me propus nesses capítulos foi restaurar o nosso sentido de maravilhamento diante da capacidade do homem para conjurar, graças a formas, linhas, nuanças ou cores, aqueles misterioso fantasmas da realidade visual a que chamamos "pinturas".
->> "Não seria o caso de dizer" — diz Platão no *Sofista* — "que fazemos uma casa com a arte de construir e, com a arte de pintar, fazemos outra, uma espécie de sonho fabricado pelo homem para os que estão acordados?"
+>> "Não seria o caso de dizer" — diz Platão no *Sofista* — "que fazemos uma casa com a arte de construir e, com a arte de pintar, fazemos outra, uma espécie de sonho fabricado pelo homem para os que estão acordados?" (p.7)
 
 %% Essa frase de Platão é interessante de ser inserida na homologia ou no perceptivo. Aliás, toda essa relação da arte com ilusão. Mas a frase de Platão em especial, traz a questão do sonho (e, ainda, "para os acordados") %%
 
-> [!NOTE]
-> Essa frase de Platão é interessante de ser inserida na homologia ou no perceptivo. Aliás, toda essa relação da arte com ilusão. Mas a frase de Platão em especial, traz a questão do sonho (e, ainda, "para os acordados")
+O autor ressalta que já existe no campo da arte um interesse sobre os aspectos simbólicos e de significado das imagens e advoga que é preciso haver um interesse também no aspecto de representação da realidade nas imagens, uma vez que este também é bem complexo. (p.7)
+
+>Assim como o estudo da poesia fica incompleto sem algum conhecimento da linguagem e da prosa, o estudo da arte deve ser, creio eu, suplementado cada vez mais com uma pesquisa da lingüística da imagem visual. Já podemos ver os contornos da iconologia , que investiga a função das imagens na alegoria e no simbolismo e sua referência ao que se poderia chamar de "o invisível mundo das ideias". A maneira pela qual a linguagem da arte se refere ao mundo visível é igualmente tão óbvia e tão misteriosa, que fazem dela o uso que fazemos de todas as línguas — sem precisar conhecer-lhe a gramática e a semântica. (p.7)
+
+%% Essa fala de Gombrich também é interessante porque, além de fazer uma comparação com a literatura, trata de como a arte se relaciona com o invisível (semiótica, símbolos) e com o visível (percepção, representação, ilusão)
+ %%
+
+Gombrich, enfim, declara que pretende fazer a ponte entre a história da arte e a prática artística. (p.7-8)
+
+## III ##
+
+Aqui Gombrich se dedica a fazer um estado da arte do tema da ilusão na arte. (A partir da p.8)
+
+Primeiro o autor explica que **estilo** deriva etimológicamente de *stillus*, instrumento de escrita da Grécia antiga. O estilo era então muito valorizado na educação, cuja finalidade estava em desenvolver as habilidades retóricas e dedicava-se a ánalise de estilos e seus efeitos psicológicos do que gombrich descreve como "categorias de expressão" (p.8):
+>a ornada e a humilde, a sublime e a bombástica." (p.8)). 
+
+Gombrich observa como na retórica a escultura e a pintura foram utilizadas para falar de estilo, usando termos como "dureza" e "doçura" percebidos nas artes visuais para falar do texto. O autor conta que isso comumente arreta em uma confusão entre estilo e capacidade técnica. (p.8)
+
+> (...) O bombástico do asiático era apresentado como sinal de decadência moral, e o retorno a um puro vocabulário ático, saudado como vitória moral. Há um ensaio de Sêneca no qual a corrupção do estilo nas mãos de Mecenas é impiedosamente analisado como manifestação de uma sociedade corrupta em que a afetação e a obscuridade contavam mais que a lucidez honesta e franca. Mas esse tipo de argumento não fica sem resposta. Tácito, no seu diálogo sobre a oratória, investe contra os Jeremias do seu tempo, que depreciavam os estilos contemporâneos. "Os tempos mudaram e mudaram nossos ouvidos. Precisamos de um outro tipo de oratória". Essa referência às condições do tempo e à diversidade dos "ouvidos"é, talvez, o primeiro fugaz contato entre a psicologia do estilo e a da percepção. (...) (p.8-9)
+
+Mas Gombrich destaca que já havia sido observada a relação entre a pintura e a teoria da percepção na antiguidade clássica. Em *Academica*, Cícero se dedicou a entender a relação entre os sentidos perceptivos e o conhecimento, exaltando como pintores enxergam nuances que as outras pessoas não vêem. No entanto, Gombrich conclui que essa não foi uma afirmação totalmente investigada e resta ainda entender se **a percepção mais aguçada dos pintores é causa ou efeito da capacidade de criar uma representação apurada da realidade**. (p.8)
+
+O autor entende que os dois lados são igualmente observados. Por um lado, ele atenta que pintor precisa observar a natureza, mas a observação por si só não o faz criar obras de arte. (p.9)
+
+>(...) Na Antigüidade, a conquista da ilusão pela arte era proeza tão recente, que toda discussão sobre a pintura e escultura inevitavelmente girava em torno da imitação, *mímesis*. Pode-se até dizer que o progresso da arte nessa direção era, para o mundo antigo, o que é hoje, para o moderno, o progresso da técnica: o próprio modelo do progresso como tal. (p.9)
+
+
+Gombrich dá o exemplo de Plínio, que descreve o processo histórico das descobertas da representação pictórica na antiguidade.(p.9)
+
+>(...) o pintor Polignoto foi o primeiro a representar gente de boca aberta e com dentes; o escultor Pitágoras, o primeiro a representar nervos e veias; o pintor Nícias, o primeiro a se preocupar com a luz e sombra.<
+
+Vasari fez o mesmo no Renascimento italiano do século XIII ao XVI. (p.9-10)
+
+>Vasari nunca deixa de render tributo aos artistas do passado que fizeram uma distinta contribuição, segundo ele, à mestria na representação. "A arte ascendeu de humildes começos a um pináculo de perfeição" porque gênios naturais como Giotto rasgaram caminhos e outros puderam construir na sua esteira. Ficamos sabendo assim, por exemplo, que o misterioso Stefano "apesar dos defeitos de seus escorços... devido às dificuldades de execução, merece, como primeiro investigador dessas dificuldades, muito maior fama do que os que vieram depois dele, embora os donos de um estilo mais regular e sistemático". Em outras palavras, Vasari via a invenção dos meios de representação como uma grande empresa coletiva de tal dificuldade, que era inevitável uma certa divisão de trabalho. Diz ele a Taddeo Gaddi:
+>>"Tadddeo sempre adotou a maneira de Giotto, mas sem aperfeiçoá-la, a não ser no colorido, que fez mais vívido e fresco. Giotto dera tanta atenção ao aperfeiçoamento de sua arte sob outros aspectos e à superação de dificuldades , que, embora fosse adequado como colorista, não era mais que isso. Então Taddeo, que estudara e aprendera o que Giotto havia tornado fácil, teve tempo de fazer sua própria contribuição, melhorando a cor.". (p.9-10)
+
+Gombrich se compromete, então, a mostrar ao longo do livro a validade desse procedimento de entender a ilusão na arte ocidental como uma construção coletiva feita a partir de inúmeras descobertas e defende que ela apenas parece ingênua porque tais teóricos não diferenciaram a invenção da mimese da realidade.
+
+Gombrich explica que a psicologia da percepção (a "contemplação da natureza") se insere no campo do estilo como uma questão do ensino da prática artística. 
+
+>(...) O professor acadêmico preocupado com a exatidão da representação, achava, e ainda achará, que as dificuldades dos seus alunos não se deviam só a uma inabilidade em copiar a natureza, mas também de uma inabilidade em vê-la. (p.10)
+
+Outro exemplo Gombrich traz por meio de uma fala de Jonathan Richardson, que um artista que conhece anatomia desenha diferente de um que não conhece.
+
+%%Nesse ponto, Gombrich coloca a questão entre "ver" e "conhecer" que ele anunciou no prefácio.%%
+
+Gombrich aponta, então, que o elo entre essa questão do conhecimento com a capacidade de ver com o entendimento de Vasari de que as mudanças no estilo se davam, mais do que pelo aperfeiçoamento da habilidade, pelas diferenças de visão de mundo está no pensamento de James Barry, no século XVIII. 
+
+EXPLICAR
+
+
+
+
