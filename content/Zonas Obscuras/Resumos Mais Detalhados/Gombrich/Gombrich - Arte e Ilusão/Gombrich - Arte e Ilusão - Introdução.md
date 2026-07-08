@@ -36,12 +36,29 @@ Gombrich observa que, apesar de ser possível identificar as duas formas, é dif
 
 > (...) Não posso comer um pedaço de bolo e ter o bolo inteiro. Não posso fazer uso de uma ilusão e observá-la ao mesmo tempo. (p.5)
 
-Gombrich compara as obras de arte ao espelho nesse aspecto ilusório.
+O autor compara as obras de arte ao **espelho** nesse aspecto ilusório. (p.5)
 
-* Exemplo de kenneth Clark que tentou, em vão, entender quando deixava de ver as pinceladas de Velázquez se transformavam em imagem ao ir gradualmente se distanciando do quadro. Concluiu que é impossível entender esse momento da virada ilusória. 
+* Exemplo de Kenneth Clark que tentou, em vão, entender quando deixava de ver as pinceladas de Velázquez para enxergar a imagem ao ir gradualmente se distanciando do quadro. Concluiu que é impossível entender esse momento da virada ilusória. (p.5)
 
-Gombrich observa que nos textos da psicologia, a ilusão está aparatada da estética e ele mesmo optou então por tratar separadamente as ilusões de ótica das artes, porque a representação, afinal, não precisa ser arte. 
+Gombrich observa que nos textos da psicologia, a ilusão está aparatada da estética e ele mesmo optou então por tratar separadamente as ilusões de ótica das artes, porque a representação, afinal, não precisa ser arte. (p.5-6)
 
-* Exemplo do círculo que vira gato e bolsa - tirado de uma cartilha de como desenhar um gato da infância de Gombrich, onde conforme elementos iam sendo acrescentados, a leitura da imagem muda completamente.
+* Exemplo do círculo que vira gato e bolsa - tirado de uma cartilha de como desenhar um gato da infância de Gombrich, na qual a leitura da imagem muda completamente conforme elementos vão sendo acrescentados. Nesse caso também quando se vê a nova figura, a antiga é abandonada. (p.6)
 
 ![[gombrich03.png|697]]
+Gombrich, então, aponta uma interseção entre o campo da arte e da ilusão. (p.6)
+
+>Quando nos ocupamos dos mestres da pintura do passado, que forma, ao mesmo tempo grandes artistas e grandes "ilusionistas", o estudo da arte e o estudo da ilusão não podem ser mantidos sempre à parte. (...) (p.6)
+
+O autor, então, menciona como as inovações pictóricas dos mestres do passado que criam a ilusão na arte são hoje conhecimento consolidado e acessível pelas pessoas. Ele também ressalta como o mundo de então (1959) é mais que nunca habitado por imagens. (p.6)
+
+>Que as descobertas e efeitos de representação, que eram orgulho de artistas de outros tempos, tenham ficado hoje triviais, é coisa que não nego por um só momento. E, todavia, acredito que estaremos em perigo de perder contato com os grandes mestres do passado e aceitarmos a doutrina, tão em moda, de que essas questões nunca tiveram nada a ver com arte. O motivo pelo qual a representação da natureza pode ser hoje vista como coisa banal deve ser do maior interesse para o historiador. Nunca houve uma época como a nossa, em que a imagem visual fosse tão barata, em qualquer sentido que se tome a palavra. Estamos cercados, investidos, por cartazes e eanúncios, por histórias em quadrinhos e ilustrações de revistas. vemos aspectos da realidade representados nas telas de televisão e cinema, em selos postais e embalagens de comida. A pintura é ensinada na escola e praticada em casa como terapia e passatempo, e muito amador domina truques que pareceriam pura mágica a Giotto.(...) Mas penso que a vulgarização e os estratagemas da representação podem criar um problema tanto para o historiador quanto para o crítico. (p.6-7)
+
+Gombrich contrasta essa vulgarização do convívio e da produção de imagens com o "maravilhamento" diante do fato de como, por meio de traços e cores, se cria uma imagem.
+
+>(...) O principal objetivo que me propus nesses capítulos foi restaurar o nosso sentido de maravilhamento diante da capacidade do homem para conjurar, graças a formas, linhas, nuanças ou cores, aqueles misterioso fantasmas da realidade visual a que chamamos "pinturas".
+>> "Não seria o caso de dizer" — diz Platão no *Sofista* — "que fazemos uma casa com a arte de construir e, com a arte de pintar, fazemos outra, uma espécie de sonho fabricado pelo homem para os que estão acordados?"
+
+%% Essa frase de Platão é interessante de ser inserida na homologia ou no perceptivo. Aliás, toda essa relação da arte com ilusão. Mas a frase de Platão em especial, traz a questão do sonho (e, ainda, "para os acordados") %%
+
+> [!NOTE]
+> Essa frase de Platão é interessante de ser inserida na homologia ou no perceptivo. Aliás, toda essa relação da arte com ilusão. Mas a frase de Platão em especial, traz a questão do sonho (e, ainda, "para os acordados")
