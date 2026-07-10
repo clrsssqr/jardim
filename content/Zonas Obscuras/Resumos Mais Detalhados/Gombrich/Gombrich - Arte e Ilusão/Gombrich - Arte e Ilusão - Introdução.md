@@ -49,7 +49,7 @@ Gombrich, então, aponta uma interseção entre o campo da arte e da ilusão. (p
 
 >Quando nos ocupamos dos mestres da pintura do passado, que forma, ao mesmo tempo grandes artistas e grandes "ilusionistas", o estudo da arte e o estudo da ilusão não podem ser mantidos sempre à parte. (...) (p.6)
 
-O autor, então, menciona como as inovações pictóricas dos mestres do passado que criam a ilusão na arte são hoje conhecimento consolidado e acessível pelas pessoas. Ele também ressalta como o mundo de então (1959) é mais que nunca habitado por imagens. (p.6)
+O autor, então, menciona como as inovações pictóricas dos mestres do passado que criam a ilusão na arte são hoje conhecimento consolidado e acessível pelas pessoas. Ele também ressalta como o mundo de agora (1959) é mais que nunca habitado por imagens. (p.6)
 
 >Que as descobertas e efeitos de representação, que eram orgulho de artistas de outros tempos, tenham ficado hoje triviais, é coisa que não nego por um só momento. E, todavia, acredito que estaremos em perigo de perder contato com os grandes mestres do passado e aceitarmos a doutrina, tão em moda, de que essas questões nunca tiveram nada a ver com arte. O motivo pelo qual a representação da natureza pode ser hoje vista como coisa banal deve ser do maior interesse para o historiador. Nunca houve uma época como a nossa, em que a imagem visual fosse tão barata, em qualquer sentido que se tome a palavra. Estamos cercados, investidos, por cartazes e anúncios, por histórias em quadrinhos e ilustrações de revistas. vemos aspectos da realidade representados nas telas de televisão e cinema, em selos postais e embalagens de comida. A pintura é ensinada na escola e praticada em casa como terapia e passatempo, e muito amador domina truques que pareceriam pura mágica a Giotto.(...) Mas penso que a vulgarização e os estratagemas da representação podem criar um problema tanto para o historiador quanto para o crítico. (p.6-7)
 
@@ -86,7 +86,6 @@ O autor entende que os dois lados são igualmente observados. Por um lado, ele a
 
 >(...) Na Antigüidade, a conquista da ilusão pela arte era proeza tão recente, que toda discussão sobre a pintura e escultura inevitavelmente girava em torno da imitação, *mímesis*. Pode-se até dizer que o progresso da arte nessa direção era, para o mundo antigo, o que é hoje, para o moderno, o progresso da técnica: o próprio modelo do progresso como tal. (p.9)
 
-
 Gombrich dá o exemplo de Plínio, que descreve o processo histórico das descobertas da representação pictórica na antiguidade.(p.9)
 
 >(...) o pintor Polignoto foi o primeiro a representar gente de boca aberta e com dentes; o escultor Pitágoras, o primeiro a representar nervos e veias; o pintor Nícias, o primeiro a se preocupar com a luz e sombra.<
@@ -102,14 +101,28 @@ Gombrich explica que a psicologia da percepção (a "contemplação da natureza"
 
 >(...) O professor acadêmico preocupado com a exatidão da representação, achava, e ainda achará, que as dificuldades dos seus alunos não se deviam só a uma inabilidade em copiar a natureza, mas também de uma inabilidade em vê-la. (p.10)
 
-Outro exemplo Gombrich traz por meio de uma fala de Jonathan Richardson, que um artista que conhece anatomia desenha diferente de um que não conhece.
+Outro exemplo Gombrich traz por meio de uma fala de Jonathan Richardson, que um artista que conhece anatomia desenha diferente de um que não conhece. (p.10)
 
 %%Nesse ponto, Gombrich coloca a questão entre "ver" e "conhecer" que ele anunciou no prefácio.%%
 
-Gombrich aponta, então, que o elo entre essa questão do conhecimento com a capacidade de ver com o entendimento de Vasari de que as mudanças no estilo se davam, mais do que pelo aperfeiçoamento da habilidade, pelas diferenças de visão de mundo está no pensamento de James Barry, no século XVIII. 
+Gombrich aponta, então, que o elo entre essa ideia da relação do conhecimento com a capacidade de ver e a de Vasari de que as mudanças no estilo se davam pelas diferenças de visão de mundo está no pensamento de James Barry, no século XVIII. Barry se impressionou em saber que a pintura Madonna Rucelai, de Cimabue (hoje creditada a Duccio) era considerada uma obra-prima no século XIII. (p.10)
 
-EXPLICAR
+![[gombrich04.png]]
 
+>"As grandes deficiências dessa obra de Cimbaue", disse Barry, "poderiam talvez, induzir alguns a pensar que ele não estudou a Natureza para pintá-la. Mas as imitações da arte primitiva são exatamente como as das crianças. Nada é visto, mesmo no espetáculo que temos diante dos olhos, se não tiver sido, de alguma maneira, conhecido e buscado previamente em outro contexto e inúmeras diferenças observáveis entre as idades da ignorância e as do conhecimento **mostram o quanto a contração ou extensão da nossa esfera de visão depende de outras considerações que não o simples retorno à ótica natural**. As pessoas, então, de outras idades viram tanto e admiraram o que viram porque não conheciam nada melhor." (p.10-11)
 
+> [!NOTE]
+> Essa comparação e nomeação de "primitivo" são problemáticas. Vamos ver como se desenrola ao longo do livro.
 
+Então, Gobrich argumenta que no início do século XIX o tema da visão ganhou novo interesse, matizado pelos valores científicos de observação da realidade. (p.11)
 
+**Constable** se voltou para o entendimento do público sobre pintura (p.12), afirmando:
+>"A arte de ver a natureza", observou Constable, na sua maneira pungente de dizer as coisas, " é adquirida como a arte de ler a escrita hieroglífica dos egípcios." (p.12)
+
+**Ruskin** teve a mesma atitude ao defender **Turner** no livro *Modern Painters*, em 1843. Gombrich observa como Ruskin se junta à Plínio e Vasari quando afirma que Turner é melhor que seus antecessores porque possui mais conhecimento sobre os fenômenos atmosféricos. Mas o público em sua ignorância não consegue perceber isso. (p.12)
+
+Gombrich afirma que Turner obriga o crítico a confirmar que sua pintura está correta, do ponto de vista da representação da realidade.
+
+>(...) [SOBRE TURNER] O progresso da arte torna-se aqui um triunfo sobre os preconceitos da tradição. É lento por ser tão difícil para todos nós desembaraçar o que realmente vemos do que apenas sabemos e, assim, recuperar o "olho inocente", expressão divulgada por Ruskin. (p. 12)
+
+FALTA ULTIMO PARAGRAFO
