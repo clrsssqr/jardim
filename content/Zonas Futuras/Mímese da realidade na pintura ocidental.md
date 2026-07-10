@@ -1,11 +1,11 @@
 
 A arte opera pela verossimilhança na arte ocidental desde o século XIII. 
 
-> [!NOTE]
+> [!elaborar]
 > Que referências afirmam isso? O que aconteceu no século XIII?
 
 No renascimento houve o retorno à arte grega. 
-> [!OUTRA PALAVRA]
+> [!elaborar]
 > Que referências afirmam isso? Elaborar.
 
 Contextualizar através de Hauser e Gombrich.
