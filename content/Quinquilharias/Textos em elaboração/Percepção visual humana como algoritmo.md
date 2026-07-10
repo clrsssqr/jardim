@@ -1,0 +1,25 @@
+Os autores e pesquisadores mais importantes que traçaram esse paralelo são:
+1. David Marr (O pioneiro fundamental)
+O neurocientista britânico David Marr é o nome mais importante dessa abordagem. Em seu livro seminal de 1982, Vision, ele propôs que a visão humana funciona exatamente como um sistema de computação que transforma dados brutos em representações geométricas tridimensionais.
+Marr dividiu a percepção visual em três níveis fundamentais de análise: 
+Centro de Recursos Computacionais +3
+Nível Computacional: O objetivo do sistema (o que a visão está tentando resolver).
+Nível Algorítmico: O "software" do cérebro. Como a informação visual (luz na retina) é transformada, passo a passo, por meio de regras matemáticas e lógicas em formas conceituais.
+Nível de Implementação: O "hardware", ou seja, como os neurônios físicos executam esse algoritmo. 
+YouTube·IvyPanda Study Hub
+
+2. Richard Gregory (A visão como teste de hipóteses)
+O psicólogo britânico Richard Gregory comparou o cérebro a um sistema de computação inteligente que roda "algoritmos de inferência".
+Para Gregory, os dados recebidos pelos olhos são escassos e ambíguos.
+O cérebro atua como um computador gerando hipóteses visuais com base em conhecimentos prévios para "adivinhar" o que está à sua frente.
+Ele usava as ilusões de ótica para provar que falhas de percepção ocorrem quando o cérebro aplica o "algoritmo" de interpretação errado a uma imagem. 
+YouTube·MITCBMM +3
+
+3. Shimon Ullman (Visão de alto nível)
+Cientista da computação e colaborador próximo de Marr, Shimon Ullman avançou na ideia de como o cérebro processa tarefas visuais complexas.
+Ele cunhou o termo "Visual Routines" (Rotinas Visuais), argumentando que, para identificar objetos e ler mapas, a mente humana executa microprogramas e sequências algorítmicas pré-programadas no córtex visual.
+4. Bela Julesz (A computação estereoscópica)
+O neurocientista Bela Julesz utilizou algoritmos de computador para criar os famosos "estereogramas de pontos aleatórios".
+Ele provou matematicamente que o sistema visual humano processa a profundidade e a tridimensionalidade por meio de cálculos algorítmicos comparativos entre as imagens captadas pelo olho esquerdo e pelo olho direito, mesmo antes de reconhecer qualquer forma ou objeto na cena.
+5. Zenon Pylyshyn (Arquitetura cognitiva)
+O cientista cognitivo canadense Zenon Pylyshyn defendeu veementemente que a percepção visual e a imaginação mental operam com base em representações simbólicas e computacionais. Ele argumentava que o cérebro roda "regras computacionais" muito semelhantes às linhas de código que gerenciam gráficos e inputs em sistemas digitais.

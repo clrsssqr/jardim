@@ -2,7 +2,6 @@
 [[Subjetividade na Arte]]
 
 
-
 [[Hauser - Rococó, Classicismo e Romantismo]]
 
 [[Bessière]]

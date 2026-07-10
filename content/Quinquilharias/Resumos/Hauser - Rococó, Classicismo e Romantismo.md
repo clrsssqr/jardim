@@ -52,6 +52,8 @@ O capítulo V usa a Revolução Francesa como pivô para traçar uma história c
 
 **A ideia principal é que a Revolução não produziu uma arte nova de dentro para fora. Ao contrário, o estilo da arte revolucionária e napoleônica é o classicismo, herdado do Antigo Regime. Mas ainda assim a Revolução transformou significativamente as condições materiais e sociais da produção artística, porque ela dissolveu o mecenato e a corte como centros organizadores, estabilizou e ampliou o público burguês, transferiu ao Estado e ao mercado as funções que antes cabiam ao patrono particular, , mais que tudo, liberou o artista de qualquer autoridade extrínseca, tornando o princípio da expressão individual o único critério da arte moderna. A herança institucional e ideológica da Revolução, mais do que qualquer estilo específico, que constituiu para Hauser a verdadeira ruptura histórica.**
 
+Ver mais em [[Hauser - P6 - Cap. V - Revolução e Arte]]
+
 ---
 # O Romantismo Alemão e o do Ocidente
 
@@ -60,3 +62,5 @@ O capítulo V usa a Revolução Francesa como pivô para traçar uma história c
 **O capítulo tem duas teses principais. A primeira é que o romantismo não é uma ideologia nem progressista nem reacionária. É constitutivamente ambivalente e deriva da posição contraditória da própria classe média no início do século XIX, que é ao mesmo tempo a herdeira da Revolução e a classe que mais sofre com suas consequências desestabilizadoras. O romantismo seria a expressão cultural dessa contradição, pois cada um de seus elementos — o historicismo, a fuga para o passado, o culto do gênio, o subjetivismo, o individualismo, o emocionalismo — tem ao mesmo tempo uma face progressista e uma face reacionária, e Hauser percorre sistematicamente cada uma delas, mostrando como as mesmas tendências podem servir a programas políticos opostos.**
 
 **O segundo argumento estrutura toda a segunda metade do capítulo e diz que o romantismo como movimento europeu se diferenciou profundamente conforme o contexto nacional: na Alemanha, onde começou, é inicialmente revolucionário e depois se converte ao conservadorismo; na França, seguiu o caminho inverso — começou como literatura de emigrados e da Restauração, e progressivamente se aliou ao liberalismo; na Inglaterra, evoluiu com muito maior continuidade, sem o antagonismo frontal com o classicismo que marcou a batalha do _Hernani_ na França.**
+
+Ver mais em: [[Hauser - P6 - Cap. VI - O Romantismo Alemão e o do Ocidente]]
