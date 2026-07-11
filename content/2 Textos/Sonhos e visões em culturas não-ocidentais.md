@@ -3,7 +3,7 @@ tipo: conceito
 status: broto
 publish: true
 ---
-## Perspectivas Antropológicas e Biopsicossociais#
+#### Perspectivas Antropológicas e Biopsicossociais#
 
 Nas tradições não ocidentais, a separação entre "o que o olho vê acordado" e "o que a mente vê em transe" muitas vezes não existe. As visões são consideradas formas legítimas de percepção da realidade expandida.
 

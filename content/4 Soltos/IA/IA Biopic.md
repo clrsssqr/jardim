@@ -1,4 +1,9 @@
-Gastando os réditos no Kling, também fiz minha biopic. Fiz até 3 versões. A primeira foi mais um homem branco. A segunda e a terceira virei asiática. O que realmente se revelou verdade no auto retrato que vi depois. A vida sempre nos surpreende.
+---
+tipo: solto
+status: semente
+publish: true
+---
+Gastando os créditos no Kling, também fiz minha biopic. Fiz até 3 versões. A primeira foi mais um homem branco. A segunda e a terceira virei asiática. O que realmente se revelou verdade no auto retrato que vi depois. A vida sempre nos surpreende.
 
 Versão 1
 

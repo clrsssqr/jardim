@@ -1,4 +1,10 @@
-![[kling_20260611_IMAGE_Uma_pessoa_2973_0.png]]![[kling_20260611_IMAGE_Uma_pessoa_2984_0.png]]
+---
+tipo: solto
+status: semente
+publish: true
+---
+
+#![[kling_20260611_IMAGE_Uma_pessoa_2973_0.png]]![[kling_20260611_IMAGE_Uma_pessoa_2984_0.png]]
 
 Ainda gastando os créditos do kling, fiz esses belos autorretratos. Dei minha descrição e deixei o arquivo me retratar. Primeiro numa fotografia mais solene que captura minha essência. Depois em um momento de intimidade com a família. 
 

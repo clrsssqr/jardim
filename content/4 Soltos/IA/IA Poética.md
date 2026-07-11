@@ -1,4 +1,10 @@
-Ainda nos testes do Kling. Coloquei no prompt a letra do Djavan:
+---
+tipo: solto
+status: semente
+publish: true
+---
+
+#Ainda nos testes do Kling. Coloquei no prompt a letra do Djavan:
 
 Lua sai. Ventania abraça uma nuvem que passa no ar, beija, brinca e deixa passar.
 Achei até que a IA tentaria algo mais literarl, mas sua tendência foi fazer uma imagem realista técnica mesmo.

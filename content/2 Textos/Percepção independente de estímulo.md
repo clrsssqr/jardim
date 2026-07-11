@@ -3,8 +3,6 @@ tipo: conceito
 status: broto
 publish: true
 ---
-
-#
 Vários autores importantes conectam a percepção visual tradicional com as imagens geradas "de dentro para fora", como os sonhos, as alucinações (visões) e a imaginação mental. 
 Na neurociência e na psicologia cognitiva, essas imagens são chamadas de **percepção independente de estímulo**. Esses autores descobriram que o cérebro usa os mesmos circuitos e algoritmos visuais para ver o mundo real e para construir os sonhos e visões. 
 

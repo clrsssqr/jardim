@@ -3,8 +3,7 @@ tipo: conceito
 status: broto
 publish: true
 ---
-
-#Os autores e pesquisadores mais importantes que traçaram esse paralelo são:
+Os autores e pesquisadores mais importantes que traçaram esse paralelo são:
 
 **David Marr** (Pioneiro)
 O neurocientista britânico David Marr é o nome mais importante dessa abordagem. Em seu livro de 1982, *Vision*, ele propôs que a visão humana funciona exatamente como um sistema de computação que transforma dados brutos em representações geométricas tridimensionais.

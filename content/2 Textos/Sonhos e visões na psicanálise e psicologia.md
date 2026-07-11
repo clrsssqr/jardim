@@ -3,7 +3,6 @@ tipo: conceito
 status: broto
 publish: true
 ---
-
 **Sigmund Freud** (O "Trabalho do Sonho")
 Em seu livro *A Interpretação dos Sonhos* (1900), Freud entende o sonho como uma forma de pensamento visual. Como o inconsciente não pode se expressar em palavras diretas devido à censura psíquica, ele usa um *algoritmo*"* próprio de tradução visual baseado em dois mecanismos:
 * **Condensação** - Quando várias ideias ou pessoas se fundem em uma única imagem visual (ex: sonhar com uma pessoa que tem o rosto de um amigo, mas a voz de seu pai).

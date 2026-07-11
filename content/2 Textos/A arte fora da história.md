@@ -3,7 +3,7 @@ tipo: conceito
 status: semente
 publish: false
 ---
- Fora da História da Arte, para que serve a arte? Vale a frase de Eliade citada por Bessière? O que outras culturas tem a dizer sobre isso?
+Fora da História da Arte, para que serve a arte? Vale a frase de Eliade citada por Bessière? O que outras culturas tem a dizer sobre isso?
 
 Fora da história ocidental, a imagem muitas vezes é ligada à ritualística.
 

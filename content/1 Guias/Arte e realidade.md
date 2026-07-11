@@ -1,3 +1,9 @@
+---
+tipo: conceito
+status: broto
+publish: true
+---
+
 Grande parte da minha pesquisa atual se dá na relação entre arte e realidade. Algumas questões às quais estou me dedicando.
 
 - [[Arte e verossimilhança na arte ocidental]] - Exploro aqui a relação entre a imagem e o que ela afirma como real nas artes visuais. Esse texto aborda o que é a verossimilhança na arte, sua relação com a representação, a verossimilhança na pintura europeia do século XIII até as vanguardas modernistas e os novos regimes de verossimilhança trazidos pelas imagens técnicas, pela arte contemporânea e pela inteligência artificial.
