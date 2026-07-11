@@ -1,4 +1,5 @@
 ---
+title: 🌿Percepção visual humana como algoritmo
 tipo: conceito
 status: broto
 publish: true

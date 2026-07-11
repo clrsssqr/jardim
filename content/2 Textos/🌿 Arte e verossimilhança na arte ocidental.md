@@ -1,4 +1,5 @@
 ---
+title: 🌿 Arte e verossimilhança na arte ocidental
 tipo: conceito
 status: broto
 publish: true

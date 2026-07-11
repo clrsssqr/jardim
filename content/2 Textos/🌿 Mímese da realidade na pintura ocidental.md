@@ -1,4 +1,5 @@
 ---
+title: 🌿 Mímese da realidade na pintura ocidental
 tipo: conceito
 status: broto
 publish: true

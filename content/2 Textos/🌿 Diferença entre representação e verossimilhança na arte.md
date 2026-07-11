@@ -1,4 +1,5 @@
 ---
+title: 🌿 Diferença entre representação e verossimilhança na arte
 tipo: conceito
 status: broto
 publish: true

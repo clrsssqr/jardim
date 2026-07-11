@@ -1,4 +1,5 @@
 ---
+title: 🌱 Subjetividade na Arte
 tipo: conceito
 status: semente
 publish: false

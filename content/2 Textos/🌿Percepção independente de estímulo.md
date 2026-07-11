@@ -1,4 +1,5 @@
 ---
+title: 🌿Percepção independente de estímulo
 tipo: conceito
 status: broto
 publish: true

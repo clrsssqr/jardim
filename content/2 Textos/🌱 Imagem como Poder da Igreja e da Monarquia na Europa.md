@@ -1,4 +1,5 @@
 ---
+title: 🌱 Imagem como Poder da Igreja e da Monarquia na Europa
 tipo: conceito
 status: semente
 publish: false

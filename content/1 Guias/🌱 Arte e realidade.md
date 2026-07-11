@@ -1,4 +1,5 @@
 ---
+title: 🌱 Arte e realidade
 tipo: conceito
 status: broto
 publish: false

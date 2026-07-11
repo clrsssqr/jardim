@@ -1,4 +1,5 @@
 ---
+title: 🌱 A arte fora da história
 tipo: conceito
 status: semente
 publish: false

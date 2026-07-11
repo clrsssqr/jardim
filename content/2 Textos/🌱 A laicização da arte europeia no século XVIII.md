@@ -1,4 +1,5 @@
 ---
+title: 🌱 A laicização da arte europeia no século XVIII
 tipo: conceito
 status: semente
 publish: false

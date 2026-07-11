@@ -1,4 +1,5 @@
 ---
+title: 🌿Percepção Visual
 tipo: conceito
 status: broto
 publish: true
