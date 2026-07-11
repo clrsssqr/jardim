@@ -1,5 +1,6 @@
 ---
 title: Olá!
+publish:
 ---
 ![[autorretratoia_600.png|170]]
 
