@@ -12,11 +12,15 @@ Fonte: [[Hauser - História Social da Literatura e da Arte]]
 
 Eis uma breve descrição de como Bessière vê a evolução do romance quando fala sobre o fantástico.
 
+___
+
 **Século XVII: A Consolidação da Verossimilhança**
 
 Neste período, o **romance realista** se desenvolveu de maneira paralela ao conto de fadas.[^1] A literatura narrativa era regida pela **verossimilhança**, que funcionava como um imperativo de concordância entre a arte e o meio cultural de uma civilização unitária e hierarquizada. [^2][^3]
 
 O verossímil abrangia simultaneamente os discursos sobre a natureza e a sobrenatureza, reunidos de forma coerente pela religião.[^4] Obras como _Comte de Gabalis_ (1670) utilizavam o insólito apenas como ironia ou paródia, sem romper com a ordem intelectual.[^5]
+
+___
 
 **Século XVIII: A Crise do Iluminismo e o Romance Negro**
 
@@ -28,6 +32,8 @@ Bessière também nota no romance do século XVIII a influência do **conto mara
 
 Bessière explica que, no romance, a interrogação do herói sobre o real está indissociável da questão da sua própria **identidade** ("quem sou eu?") e do seu **poder** pessoal ("o que posso fazer?")[^1]. Ela contrasta essa característica com a narrativa fantástica que leva o foco para a verdade do **acontecimento** ("o que me aconteceu?").[^1] [^3]
 
+___
+
 **Século XIX: O Apogeu do Realismo e o Romance Psicológico**
 
 O romance realista, como os de Balzac, e o psicológico deste século focam na **identidade** e no **poder** do **sujeito**.[^15] [^16] O foco na ação é uma característica estrutural do gênero do romance (realista e psicológico) como um todo, mas o século XIX é apontado como o momento essa primazia se torna mais imperativa.
@@ -38,6 +44,7 @@ Embora o século XIX seja o exemplo central (como no romance balzaquiano), a aut
 
 Bessière observa que, nos Estados Unidos, o gênero, chamado especificamente de _romance_, desenvolveu-se de forma distinta por causa da carência de uma tradição histórica nacional.[^18][^19] Diferente do romance realista europeu, ele priorizaria o **acontecimento** sobre a ação.[^20] Utiliza elementos simbólicos e abstrações para "estabelecer uma relação com o mundo" em meio ao vazio cultural americano. [^18]  **Essa afirmação é um tanto estranha (vazio cultural nas Américas é uma coisa inimaginável) e vale ser examinada com mais atenção um dia - [[O Fantástico Americano]].**
 
+___
 
 [^1]: Irène Bessière, _Le Récit Fantastique: La poétique de l'incertain_ (Paris: Larousse Université, 1973), 37, p1. Salvo indicação contrária, todas as traduções são nossas.
 [^2]: Bessière *Le Récit Fantastique*, 67, p.1.
