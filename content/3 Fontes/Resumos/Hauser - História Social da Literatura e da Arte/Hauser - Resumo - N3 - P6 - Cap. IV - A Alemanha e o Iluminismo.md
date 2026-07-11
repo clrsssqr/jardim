@@ -1,0 +1,40 @@
+---
+tipo: fonte
+status: broto
+publish: false
+autor: Hauser
+livro/obra: História Social da Literatura e da Arte
+---
+#históriadaarte #arteesociedade #literatura #rococo #neoclassicismo #romantismo #hauser 
+
+Fonte: [[Hauser - História Social da Literatura e da Arte]]
+
+# Capítulo IV - A Alemanha e o Iluminismo
+
+*A imaturidade política da burguesia alemã. O particularismo do Alemão. A indiferença da 'inteligência' alemã perante a vida pública. A metrópole a vida literária livre. A estetitização da concepção filosófica do mundo. O novo conceito de gênio. O vitalismo da *Sturm and Drang*. O racionalismo. Herder. Goethe e a burguesia. A ideia de literatura universal.*
+
+>[!note] Resumo
+>
+ Hauser mostra porque o Iluminismo e o pré-romantismo alemães seguem um caminho tão diferente do francês e do inglês sob o viés sociológico.
+> 
+> **A tese central é que a peculiaridade do espírito alemão — seu idealismo filosófico, seu subjetivismo exacerbado, sua tendência à interiorização e à abstração — não é um traço nacional permanente, mas o resultado direto da imaturidade política da burguesia alemã, ela própria consequência de fatores econômicos e históricos concretos (o deslocamento das rotas comerciais, a Guerra dos Trinta Anos, o particularismo dos príncipes territoriais). Excluída da vida pública e da ação política efetiva, a "inteligência" burguesa alemã refugia-se num mundo de especulação interior, e é exatamente essa retirada para dentro de si mesma que gera, paradoxalmente, tanto o conceito alemão de gênio quanto o idealismo filosófico de Kant e a estetização de toda a visão de mundo. O movimento Sturm und Drang e, depois, o classicismo de Weimar são, para Hauser, duas respostas diferentes — uma vitalista e rebelde, outra disciplinada e formal — ao mesmo problema de fundo: uma burguesia culta e progressista que não tem onde exercer poder real fora da literatura e da filosofia.**
+
+Hauser começa pela explicação econômica sobre a imaturidade política da **burguesia alemã**. O deslocamento do comércio do Mediterrâneo para o Atlântico esvazia as antigas cidades hanseáticas e os centros comerciais do sul da Alemanha e a Guerra dos Trinta Anos arruína definitivamente o que restava do poder econômico da classe média alemã, ao mesmo tempo em que a Paz de Vestfália consagra o particularismo de centenas de pequenos principados. Diferentemente da Inglaterra e da França, onde a monarquia se centraliza, na Alemanha o poder se fragmenta entre príncipes locais que imitam a magnificência de Versalhes em escala provinciana, sustentados por burocracias dispendiosas — e é precisamente esse particularismo desptótico, sem nenhuma instância nacional de oposição, que sufoca qualquer desenvolvimento burguês autônomo.
+
+Quanto ao **particularismo alemão** e à exclusão burocrática, ele mostra como a expansão da burocracia estatal nos pequenos principados reservava todos os cargos importantes à nobreza e aos funcionários da corte, restando à classe média apenas empregos subalternos (administração, igreja, magistério); essa exclusão sistemática do governo gera uma mentalidade passiva, que se compensa com um idealismo exagerado e um desprezo deliberado pela política prática, numa atitude que Hauser liga diretamente à indiferença da "inteligência" alemã perante a vida pública.
+
+Sobre a metrópole e a **vida literária livre**, ele identifica nas cidades comerciais — Hamburgo, Zurique, e mais tarde Berlim com Lessing — os primeiros focos de uma vida literária relativamente independente da corte; mas mesmo Berlim, sob Frederico II, só oferece liberdade crítica limitada (excluindo assuntos religiosos e políticos), o que explica por que mesmo um espírito tão combativo quanto Lessing precisa, em determinado momento, recorrer ao emprego de bibliotecário de um príncipe.
+
+No tema da **estetização da concepção filosófica do mundo**, Hauser argumenta que a estética se torna, na Alemanha, a disciplina filosófica central, mais do que em qualquer outro país, porque os filósofos alemães trabalham isolados em "gabinetes de trabalho", sem qualquer interferência da vida prática. Nesse momento ele situa o **idealismo de Kant**, e também a recepção alemã de Shaftesbury, cujo ideal aristocrático de "personalidade" e de *kalokagathia* é transferido da esfera política e física para a esfera puramente espiritual e moral da vida como "obra de arte" guiada por um instinto interior infalível.
+
+Sobre o novo conceito de **gênio**, ele retoma e amplia um argumento já esboçado no capítulo II (Edward Young) quando afirma que, na Alemanha, o gênio se torna uma **fantasia compensatória** ainda mais radical, a personificação de uma liberdade ilimitada que os escritores não possuem na vida real. Hauser chama esse fenômeno de ***excesso de frenesi burguês***, citando Balet-Gerhard, e nota a ironia de que esse culto do gênio nasce justamente da intensa competição do mercado literário, e não de uma genuína libertação social.
+
+No vitalismo do **Sturm und Drang**, o argumento mais incisivo do capítulo é a constatação do paradoxo de que os jovens rebeldes do movimento são, segundo Hauser, inteiramente produtos da classe média, mas pouco indulgentes para com a própria burguesia. Seu antirracionalismo, que parece progressista por se opor ao racionalismo dogmático do Iluminismo, termina, na prática, servindo a interesses conservadores. Hauser observa que a luta dos príncipes contra o racionalismo era, na realidade, menos perigosa para eles do que o antirracionalismo dos seus próprios súditos cultos, porque os afastava de qualquer questionamento efetivo da ordem social.
+
+Quanto ao **racionalismo**, ele faz a ressalva importante de que o racionalismo alemão do século XVIII não é simplesmente "iluminista" no sentido francês: é, antes, um racionalismo dinâmico e antitradicionalista da própria **classe média**, voltado contra o irracionalismo romântico-cavaleiresco da aristocracia. Essa polaridade que se inverteu, mais tarde, quando setores da burguesia, sob a influência de *Sturm und Drang*, abandonam esse racionalismo de eficiência em favor do sentimentalismo.
+
+Sobre **Herder**, Hauser destaca sua concepção morfológica e cíclica da história, próxima do conservadorismo de Burke, e sua influência decisiva sobre todo o período entre o *Sturm und Drang* e o classicismo de Weimar.
+
+Sobre **Goethe** e a burguesia, ele descreve o classicismo de Weimar como uma espécie de "Renascença alemã retardada", paralela mas não equivalente ao classicismo francês, e destaca que, ao contrário de Corneille ou Racine, Goethe e Schiller nunca alcançaram verdadeira popularidade nacional, permanecendo isolados em Weimar junto a um público reduzidíssimo. Para Hauser, a educação estética que Goethe propõe, da arte como instrumento de aperfeiçoamento pessoal, funcionava como substituto da ação política que lhe é negada, e ele situa nesse contexto a progressiva moderação de Goethe em relação aos excessos do próprio *Sturm und Drang*, antecipando já a disciplina e a desconfiança burguesa do século XIX para com o boêmio e o "gênio original".
+
+Por fim, sobre a ideia de **literatura universal**, Hauser nota que o conceito goethiano de Weltliteratur nasce associado, de forma reveladora, à linguagem do comércio internacional — Goethe fala explicitamente da "troca de mercadorias intelectuais" entre as nações — e liga essa ideia ao próprio ritmo acelerado das trocas materiais trazido pela Revolução Industrial, mostrando, uma última vez no capítulo, como mesmo o conceito mais cosmopolita e aparentemente desinteressado da estética alemã tem raízes concretas nas transformações econômicas da época.

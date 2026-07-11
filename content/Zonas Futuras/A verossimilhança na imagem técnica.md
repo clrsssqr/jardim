@@ -1,5 +1,0 @@
-[[Barthes]]
-[[Benjamin]]
-[[Campany]]
-[[Bates]]
-[[Scharf]] 

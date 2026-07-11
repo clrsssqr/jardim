@@ -1,1 +1,0 @@
-Quem via as imagens da igreja do século XII ao século XVIII e como era o mundo imagético dessas pessoas? 

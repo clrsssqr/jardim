@@ -1,0 +1,34 @@
+---
+tipo: fonte
+status: broto
+publish: false
+autor: Hauser
+livro/obra: História Social da Literatura e da Arte
+---
+#históriadaarte #arteesociedade #literatura #rococo #neoclassicismo #romantismo #hauser 
+
+Fonte: [[Hauser - História Social da Literatura e da Arte]]
+
+# Capítulo I - Declínio da Arte Cortesã
+
+*O fim da época de Luís XIV. A Regência. A nova riqueza da burguesia. O ideal Voltairiano da cultura. Watteau. A poesia Pastoril. O romance heróico e o de amor. O romance psicológico. O triunfo dos temas amorosos na literatura. Marivaux. O conceito de rocoó. Boucher. Greuze e Chardin.*
+ 
+>[!note] Resumo
+>
+>O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
+> 
+> **A tese de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que trata-se de um processo gradual e ambíguo.** 
+
+O **Rococó** não é nem puramente aristocrático nem puramente burguês. É um estilo de transição, que conservou o requinte e a frivolidade da corte ao mesmo tempo em que já deixa entrar o sentimento e a intimidade, além de certo naturalismo. Esse são valores que pertencem à classe média em ascensão. Essa ambivalência entre tradição e progresso, entre formalismo e sentimento é o fio que percorre todo o capítulo e que se manifesta de modos diferentes na política, na pintura e no romance.
+
+No **plano político e social**, Hauser argumenta que a morte de Luís XIV e a Regência de Filipe de Orleans fez com que a corte deixasse de ser o único centro de poder e de cultura. A vida intelectual e artística se muda para Paris e para os salões privados, e a aristocracia, fragilizada economicamente pelas guerras e pela crise financeira do Estado, cria uma aliança instável com a burguesia. Ele insiste que essa "crise do espírito europeu" (citando Paul Hazard) já vinha sendo preparada desde o final do reinado de Luís XIV pela crítica ao classicismo e pelo enriquecimento de uma burguesia que acumulou capitalno momento em que a velha riqueza aristocrática se esgotava.
+
+Na **pintura**, o argumento central do autor gira em torno de Watteau como exemplo dessa transição, porque ele cria a *fête galante* como uma utopia pessoal de liberdade, sem público fixo de corte, para um círculo limitado de colecionadores burgueses e aristocratas esclarecidos. Sua arte concilia um ideal sensual de prazer com uma melancolia íntima, sentimento que, segundo Hauser, não é ainda rousseauniano, mas já não é mais puramente cortesão. A partir dele, Lancret, Pater, Boucher e Fragonard popularizam e ao mesmo tempo banalizam essa fórmula, até que Boucher se torna o nome mais associado à técnica e ao "gosto" rococó propriamente dito, que significa uma arte erótica, decorativa e de "arte pela arte", que Hauser descreve como o último estilo verdadeiramente universal da cultura ocidental, válido tanto para a aristocracia quanto para a alta burguesia, antes que o século XIX trouxesse o individualismo e a busca de originalidade pessoal como norma.
+
+Na **poesia** e no romance pastoril, Hauser percorre uma genealogia que vai de Teócrito a Virgílio, da pastoral medieval e da Astrée de Honoré d'Urfé até o século XVIII, para mostrar que esse gênero nunca foi expressão direta da vida camponesa, mas sempre uma ficção de classes urbanas e cortesãs que usam o cenário bucólico como pretexto de evasão e como espaço simbólico de liberdade afetiva.
+
+No **romance heróico e de amor**, ele aponta d'Urfé como o criador do primeiro romance de amor propriamente dito, e mostra como esse gênero, através de *La Calprenède e Mademoiselle de Scudéry*, e depois de *Madame de La Fayette*, transforma o conflito entre honra e paixão em um exercício de análise racional dos sentimentos, num prenúncio do romance psicológico.
+
+É no **romance psicológico**, e sobretudo em **Marivaux**, que Hauser localiza o ápice literário do capítulo. Para ele, o século XVIII é "a época da psicologia" por excelência, e em Marivaux a observação psicológica atinge um grau quase obsessivo. Hauser traça um paralelo explícito entre Marivaux e Watteau e aponta que ambos lidam com o mesmo problema de "sociologia da arte", expressando-se em formas refinadas dentro das convenções da alta sociedade, mas já introduzindo o ponto de vista das classes médias e uma desconfiança em relação ao amor como mecanismo puro de defesa social aristocrática, tema que Hauser liga ao futuro desenvolvimento do romance sentimental em Prévost e, depois, em Rousseau.
+
+No fim, ao comparar Boucher, Greuze e Chardin, Hauser conclui o capítulo mostrando a ruptura que se dá em meados do século, quando Boucher e Fragonard continuam satisfazendo o gosto erótico e decorativo da aristocracia e da alta burguesia, enquanto Greuze e Chardin já pintam para um público de classe média, com cenas morais e domésticas. Esse contraste final entre os dois públicos e os dois gostos é, no fundo, a confirmação concreta da tese que abre o capítulo, que é a dissolução da arte cortesã pela emergência, ainda incompleta, de uma arte burguesa.
