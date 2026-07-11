@@ -1,6 +1,6 @@
 ---
 tipo: conceito
-status: broto
+status: semente
 publish: false
 ---
 
