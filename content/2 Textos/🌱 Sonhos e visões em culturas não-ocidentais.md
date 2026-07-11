@@ -1,5 +1,5 @@
 ---
-title: 🌿Sonhos e visões em culturas não-ocidentais
+title: 🌱 Sonhos e visões em culturas não-ocidentais
 tipo: conceito
 status: broto
 publish: true

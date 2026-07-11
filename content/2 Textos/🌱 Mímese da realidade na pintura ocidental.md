@@ -1,5 +1,5 @@
 ---
-title: 🌿 Mímese da realidade na pintura ocidental
+title: 🌱 Mímese da realidade na pintura ocidental
 tipo: conceito
 status: broto
 publish: true
@@ -15,7 +15,7 @@ No renascimento houve o retorno à arte grega.
 
 Contextualizar através de Hauser e Gombrich.
 
-Definir melhor a história da [[Perspectiva]] e do [[Chiaroscuro]], bem como sua relação com a [[Óptica]] e a [[🌿Percepção Visual]]. Aqui a arte acaba encontrando a ciência ([[Arte e Ciência]]). É importante também acrescentar, via conhecimento árabe e africano, a  [[A Razão Como Não Ocidental]])
+Definir melhor a história da [[Perspectiva]] e do [[Chiaroscuro]], bem como sua relação com a [[Óptica]] e a [[🌱 Percepção Visual]]. Aqui a arte acaba encontrando a ciência ([[Arte e Ciência]]). É importante também acrescentar, via conhecimento árabe e africano, a  [[A Razão Como Não Ocidental]])
 
 Cabe incluir aqui a [[🥜 Imagem como Poder da Igreja e da Monarquia na Europa]]. 
 
