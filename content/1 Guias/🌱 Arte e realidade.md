@@ -2,7 +2,7 @@
 title: 🌱 Arte e realidade
 tipo: conceito
 status: broto
-publish: false
+publish: true
 ---
 
 Grande parte da minha pesquisa atual se dá na relação entre arte e realidade. Algumas questões às quais estou me dedicando.
