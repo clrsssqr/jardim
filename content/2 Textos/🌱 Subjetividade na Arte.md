@@ -1,8 +1,8 @@
 ---
-title: 🌱 Subjetividade na Arte
+title: 🥜 Subjetividade na Arte
 tipo: conceito
 status: semente
-publish: false
+publish: true
 ---
 De maneira geral, a importância da subjetividade na arte é creditada às mudanças estruturais que acontecem no século XVIII na Europa. O Iluminismo e as Revoluções tanto inglesa quanto francesa são transformações sociais significativas que tocam diretamente na função da arte.
 
