@@ -1,6 +1,6 @@
 ---
 title: Olá!
-publish:
+publish: true
 ---
 ![[autorretratoia_600.png|170]]
 
