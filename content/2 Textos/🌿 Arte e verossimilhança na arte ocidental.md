@@ -10,8 +10,8 @@ Representação e verossimilhança são termos muito utilizados na teoria da art
 
 Muitas vezes quando falamos de verossimilhança na pintura, no entanto, estamos nos referindo à tendência da arte ocidental desde o século XIII de mimetizar a realidade, como estou detalhando melhor [[🌿 Mímese da realidade na pintura ocidental|nesse texto]]. Essa tendência começou a se modificar a partir do Romantismo e tal mudança se solidificou na arte moderna e contemporânea. 
 
-As imagens técnicas inauguraram um novo regime de verossimilhança que pressupõe a presença de um referente, como explico melhor [[🌱 A verossimilhança na imagem técnica|nesse texto]]. As imagens técnicas ganharam *status* de descrição fiel da realidade, passando a serem usadas como prova da realidade em documentos oficiais de todos os tipos.
+As imagens técnicas inauguraram um novo regime de verossimilhança que pressupõe a presença de um referente, como explico melhor [[🥜 A verossimilhança na imagem técnica|nesse texto]]. As imagens técnicas ganharam *status* de descrição fiel da realidade, passando a serem usadas como prova da realidade em documentos oficiais de todos os tipos.
 
 Mais adiante, a arte contemporânea criou outro novo regime de veossimilhança no qual a representação é construída a partir da própria realidade por meio dos dispositivos institucionais da arte, como museus, galerias, revistas etc, como descreverei melhor [[A nova verossimilhança da arte contemporânea|aqui]].
 
-Finalmente, a inteligência artificial passou a desenvolver imagens que parecem fotografias e por isso de apropriam de sua autoridade como representação da realidade, mas que na verdade são apenas simulacros sem presença, memórias sem corpo, como será melhor elaborado no texto [[🌱 A nova verossimilhança na IA]]. 
+Finalmente, a inteligência artificial passou a desenvolver imagens que parecem fotografias e por isso de apropriam de sua autoridade como representação da realidade, mas que na verdade são apenas simulacros sem presença, memórias sem corpo, como será melhor elaborado no texto [[🥜 A nova verossimilhança na IA]]. 

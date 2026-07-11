@@ -1,5 +1,5 @@
 ---
-title: 🌱 A imagem na cultura de massa
+title: 🥜 A imagem na cultura de massa
 tipo: conceito
 status: semente
 publish: false

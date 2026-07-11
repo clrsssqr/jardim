@@ -1,5 +1,5 @@
 ---
-title: 🌱 A verossimilhança na imagem técnica
+title: 🥜 A verossimilhança na imagem técnica
 tipo: conceito
 status: semente
 publish: false
