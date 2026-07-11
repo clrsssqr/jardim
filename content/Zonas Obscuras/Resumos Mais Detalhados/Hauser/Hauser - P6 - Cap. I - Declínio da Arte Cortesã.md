@@ -8,11 +8,13 @@ São Paulo: Editora Mestre Jou, 1972.
 
 *O fim da época de Luís XIV. A Regência. A nova riqueza da burguesia. O ideal Voltairiano da cultura. Watteau. A poesia Pastoril. O romance heróico e o de amor. O romance psicológico. O triunfo dos temas amorosos na literatura. Marivaux. O conceito de rocoó. Boucher. Greuze e Chardin.*
  
-> O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
+>[!note] Resumo
+>
+>O  primeiro capítulo do Tomo II fala da transição do barroco cortesão para o Rococó e do nascimento de uma sensibilidade burguesa na arte e na literatura do século XVIII. Hauser vai da política e da economia até a pintura e o romance, sempre voltando para fundamentar como a ascensão da classe média transformou o gosto, sem, no entanto, destruir o domínio da aristocracia sobre a cultura.
 > 
-> **A teste de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que é um processo gradual e ambíguo.** 
+> **A tese de Hauser é que a arte cortesã, nascida com o Renascimento, chegou ao seu ponto culminante no século XVIII e começou então a ser superada pelo subjetivismo burguês. Mas o autor destaca que trata-se de um processo gradual e ambíguo.** 
 
-O **Rococó** não é nem puramente aristocrático nem puramente burguês. É um estilo de transição, que conservou o requinte e a frivolidade da corte ao mesmo tempo em que já deixa entrar  o sentimento e a intimidade, além de certo naturalismo. Esse são valores que pertencem à classe média em ascensão. Essa ambivalência entre tradição e progresso, entre formalismo e sentimento é o fio que percorre todo o capítulo e que se manifesta de modos diferentes na política, na pintura e no romance.
+O **Rococó** não é nem puramente aristocrático nem puramente burguês. É um estilo de transição, que conservou o requinte e a frivolidade da corte ao mesmo tempo em que já deixa entrar o sentimento e a intimidade, além de certo naturalismo. Esse são valores que pertencem à classe média em ascensão. Essa ambivalência entre tradição e progresso, entre formalismo e sentimento é o fio que percorre todo o capítulo e que se manifesta de modos diferentes na política, na pintura e no romance.
 
 No **plano político e social**, Hauser argumenta que a morte de Luís XIV e a Regência de Filipe de Orleans fez com que a corte deixasse de ser o único centro de poder e de cultura. A vida intelectual e artística se muda para Paris e para os salões privados, e a aristocracia, fragilizada economicamente pelas guerras e pela crise financeira do Estado, cria uma aliança instável com a burguesia. Ele insiste que essa "crise do espírito europeu" (citando Paul Hazard) já vinha sendo preparada desde o final do reinado de Luís XIV pela crítica ao classicismo e pelo enriquecimento de uma burguesia que acumulou capitalno momento em que a velha riqueza aristocrática se esgotava.
 

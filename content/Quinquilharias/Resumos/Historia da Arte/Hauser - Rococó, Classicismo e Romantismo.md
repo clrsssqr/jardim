@@ -1,3 +1,5 @@
+#históriadaarte #arteesociedade #literatura #rococo #neoclassicismo #romantismo #hauser 
+
 Arnold Hauser
 *História Social da Literatura e da Arte*
 Tomo II - Sexta Parte -  Rococó, Classicismo e Romantismo

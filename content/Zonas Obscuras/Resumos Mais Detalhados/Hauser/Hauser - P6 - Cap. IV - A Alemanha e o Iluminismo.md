@@ -8,7 +8,9 @@ São Paulo: Editora Mestre Jou, 1972.
 
 *A imaturidade política da burguesia alemã. O particularismo do Alemão. A indiferença da 'inteligência' alemã perante a vida pública. A metrópole a vida literária livre. A estetitização da concepção filosófica do mundo. O novo conceito de gênio. O vitalismo da *Sturm and Drang*. O racionalismo. Herder. Goethe e a burguesia. A ideia de literatura universal.*
 
-> Hauser mostra porque o Iluminismo e o pré-romantismo alemães seguem um caminho tão diferente do francês e do inglês sob o viés sociológico.
+>[!note] Resumo
+>
+ Hauser mostra porque o Iluminismo e o pré-romantismo alemães seguem um caminho tão diferente do francês e do inglês sob o viés sociológico.
 > 
 > **A tese central é que a peculiaridade do espírito alemão — seu idealismo filosófico, seu subjetivismo exacerbado, sua tendência à interiorização e à abstração — não é um traço nacional permanente, mas o resultado direto da imaturidade política da burguesia alemã, ela própria consequência de fatores econômicos e históricos concretos (o deslocamento das rotas comerciais, a Guerra dos Trinta Anos, o particularismo dos príncipes territoriais). Excluída da vida pública e da ação política efetiva, a "inteligência" burguesa alemã refugia-se num mundo de especulação interior, e é exatamente essa retirada para dentro de si mesma que gera, paradoxalmente, tanto o conceito alemão de gênio quanto o idealismo filosófico de Kant e a estetização de toda a visão de mundo. O movimento Sturm und Drang e, depois, o classicismo de Weimar são, para Hauser, duas respostas diferentes — uma vitalista e rebelde, outra disciplinada e formal — ao mesmo problema de fundo: uma burguesia culta e progressista que não tem onde exercer poder real fora da literatura e da filosofia.**
 

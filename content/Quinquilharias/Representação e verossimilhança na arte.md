@@ -11,9 +11,9 @@ A verossimilhança, por sua vez, não deve ser entendida como uma propriedade ú
 
 ---
 
-[^1]: PEIRCE, Charles Sanders. Semiótica. São Paulo: Perspectiva, 2005.
+[^1]: PEIRCE, *Charles Sanders. Semiótica*. São Paulo: Perspectiva, 2005.
 
-[^2]: [[content/Quinquilharias/Resumos/Gombrich - Arte e Ilusão|GOMBRICH, E. H. Arte e Ilusão: um Estudo da Psicologia da Representação Pictórica. São Paulo: Martins Fontes, 1986]]; GOODMAN, Nelson. Linguagens da Arte: uma Abordagem a uma Teoria dos Símbolos. Lisboa: Gradiva, 2006.
+[^2]: [[Gombrich - Arte e Ilusão|GOMBRICH, E. H. Arte e Ilusão: um Estudo da Psicologia da Representação Pictórica. São Paulo: Martins Fontes, 1986]]; GOODMAN, Nelson. Linguagens da Arte: uma Abordagem a uma Teoria dos Símbolos. Lisboa: Gradiva, 2006.
 
 [^3]: ARISTÓTELES. Poética. Porto Alegre: Globo, 1966.
 
@@ -27,4 +27,4 @@ A verossimilhança, por sua vez, não deve ser entendida como uma propriedade ú
 
 [^8]: BESSIÈRE, Irène. Le Récit Fantastique: la Poétique de l'Incertain. Paris: Larousse Université, 1973.
 
-[^9]: Ver notas [^356] e [^358] deste capítulo [referentes às citações de Danto e Belting já presentes no manuscrito].
+[^9]: DANTO, Arthur. Após o Fim da Arte: A Arte Contemporânea e os Limites da História (São Paulo: EDUSP, 2006); BELTING, Hans. O fim da História da Arte (São Paulo: Cosac & Naify, 2012).

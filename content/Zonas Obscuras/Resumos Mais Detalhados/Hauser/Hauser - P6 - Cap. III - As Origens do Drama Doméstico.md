@@ -8,7 +8,9 @@ São Paulo: Editora Mestre Jou, 1972.
 
 *O drama a serviço do choque entre as várias camadas sociais. O caráter Social do herói dramático. O significado do ambiente no drama doméstico. O problema do crime passional. Liberdade e necessidade. A atitude trágica e não-trágica perante a vida.*
 
-> Hauser constrói uma teoria sociológica da tragédia através do nascimento do drama burguês
+>[!note] Resumo
+>
+>Hauser constrói uma teoria sociológica da tragédia através do nascimento do drama burguês
 > 
 > **Hauser observa que o drama doméstico do século XVIII é, desde o início, uma forma deliberadamente polêmica e programática, nascida do choque entre a burguesia ascendente e a aristocracia. A inovação vai além da temática de levar a vida cotidiana da classe média ao palco, porque em sua estrutura o drama burguês substituiu o herói trágico isolado, autônomo e definido por uma vontade própria (o modelo da tragédia clássica) por um indivíduo inteiramente condicionado pelo seu ambiente material e social. Dessa mudança de base filosófica decorre, para Hauser, uma grande consequência: o drama burguês, por dissolver a culpa trágica em psicologia e determinismo social, é estruturalmente incapaz de produzir tragédia no sentido clássico. Assim, o gênero verdadeiramente representativo do Iluminismo burguês não é o drama, mas o romance. Só mais tarde, quando a própria burguesia se sentir ameaçada (com Ibsen), o drama burguês conseguirá alcançar uma tragicidade genuína.**
 

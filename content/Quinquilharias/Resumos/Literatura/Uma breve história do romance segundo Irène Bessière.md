@@ -1,4 +1,6 @@
-Vou fazer aqui uma breve descrição de como Bessière vê a evolução do romance quando fala sobre o fantástico.
+#romance #literatura #heori #secXVII #secXVIII #secXIX #bessiere
+
+Eis uma breve descrição de como Bessière vê a evolução do romance quando fala sobre o fantástico.
 
 **Século XVII: A Consolidação da Verossimilhança**
 

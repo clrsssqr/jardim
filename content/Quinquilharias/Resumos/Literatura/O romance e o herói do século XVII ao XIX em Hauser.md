@@ -1,3 +1,5 @@
+#romance #literatura #heroi #secXVIII #secXIX #mercadoeditorial #hauser
+
 #### O ponto de partida: romance cortesão e herói heróico (século XVII)
 
 Hauser situa a origem do romance moderno no romance pastoril e heróico do século XVII. A *Astrée de Honoré d'Urfé* é, para ele, "a escola em que os rudes senhores feudais e soldados da época de Henrique IV aprenderam a ser membros de uma sociedade francesa culta" — uma arte cujo público é a corte, e cujo herói é um cavaleiro deslocado para cenários bucólicos (p. 666). O romance pastoril é essencialmente uma ficção de evasão: nunca descreve a vida real do camponês, mas serve às classes superiores como disfarce poético da fuga ao mundo civilizado (p. 662–663).
