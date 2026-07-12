@@ -12,6 +12,12 @@ configuration:
     - private
     - templates
     - .obsidian
+    - docs
+    - node_modules
+    - quartz
+    - README
+    - CODE_OF_CONDUCT
+
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

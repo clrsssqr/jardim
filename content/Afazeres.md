@@ -1,4 +1,11 @@
+---
+title:
+tipo: solto
+status: semente
+publish: false
+---
 
+#
 ## TESE##
 
 - [ ] Rever parte sobre Borgdorff no capítulo 3 da tese
