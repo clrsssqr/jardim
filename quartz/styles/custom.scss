@@ -29,3 +29,10 @@ h6,
 thead {
   font-family: "OpenMoji", var(--headerFont);
 }
+
+a.broken {
+  color: var(--gray);
+  cursor: default;
+  pointer-events: none;
+  text-decoration: none;
+}

@@ -1,0 +1,10 @@
+---
+title:
+tipo: solto
+status: semente
+publish: false
+---
+https://openmoji.org/library/
+
+1FAC0
+
