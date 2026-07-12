@@ -1,5 +1,5 @@
 ---
-title: ___
+title:
 publish: true
 ---
 
