@@ -21,16 +21,11 @@ ___
 
 
 Os textos são classificados conforme o grau de maturidade. ^1e3819
+### 🥜  Sementes  - Ideias para serem desenvolvidas#
 
-<div style="font-size: 1.5em;">🥜  Sementes  - Ideias para serem desenvolvidas</div>
+### 🌱  Brotos - Textos em desenvolvimento #
 
-
-
-<div style="font-size: 1.5em;">🌱  Brotos - Textos em desenvolvimento</div> 
-
-
-
-<div style="font-size: 1.5em;">🌳   Árvores - Ideias já elaboradas e organizadas</div>.
+### 🌳   Árvores - Ideias já elaboradas e organizadas#
 
 ___
 # Agora
