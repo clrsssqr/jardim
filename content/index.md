@@ -12,12 +12,14 @@ Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e 
 
 A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui você vai encontrar pensamentos soltos e desestruturados e algumas coisas mais ajeitadinhas. Se tudo der certo. Veremos!
 
-Para começar, você pode ver abaixo [[content/index#^67b37b|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
+Para começar, você pode ver abaixo [[content/index#^8c8107|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
 
 Se quiser trocar uma ideia sobre algo que viu aqui, fique à vontade para falar comigo! Meu  [[index#^be5bd5|email]] estã lá embaixo.
 
 ___
 # Como funciona #
+
+^8c8107
 
 ^67b37b
 Os textos são classificados conforme o grau de maturidade.
