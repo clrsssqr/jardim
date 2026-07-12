@@ -9,11 +9,13 @@ Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e 
 
 A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui você vai encontrar pensamentos soltos e desestruturados e algumas coisas mais ajeitadinhas. Se tudo der certo. Veremos!
 
-Para começar, você pode ver abaixo **como funciona o jardim virtual** ou o que ando fazendo **agora**.
+Para começar, você pode ver abaixo [[content/index#^67b37b|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
 
-Se quiser trocar uma ideia sobre algo que viu aqui, meu **email** estã lá embaixo também.
+Se quiser trocar uma ideia sobre algo que viu aqui, fique à vontade para falar comigo! Meu  [[index#^be5bd5|email]] estã lá embaixo.
 
 # Como funciona #
+
+^67b37b
 
 Os textos são classificados conforme o grau de maturidade.
 
@@ -27,6 +29,8 @@ Os textos são classificados conforme o grau de maturidade.
 
 # Agora
 
+^65365d
+
 O que ando fazendo:
 
 - Pesquisa de doutorado teórico-artística sobre o tempo e o fantástico nas imagens técnicas.
@@ -38,4 +42,4 @@ O que ando fazendo:
 
 # Contato
 
-contato@clarissesiqueira.com
+contato@clarissesiqueira.com ^be5bd5
