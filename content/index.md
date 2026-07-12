@@ -1,5 +1,5 @@
 ---
-title: Olá!🪲
+title: 🪲
 publish: true
 ---
 
@@ -12,9 +12,9 @@ Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e 
 
 A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui você vai encontrar pensamentos soltos e desestruturados e algumas coisas mais ajeitadinhas. Se tudo der certo. Veremos!
 
-Para começar, você pode ver abaixo [[Olá!🪲#^1e3819|como funciona]] o jardim virtual ou saber que ando fazendo por [[Olá!🪲#^65365d|agora]].
+Para começar, você pode ver abaixo [[content/index#^1e3819|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
 
-Se quiser trocar uma ideia sobre algo que viu aqui, fique à vontade para falar comigo! Meu  [[Olá!🪲#^be5bd5|email]] estã lá embaixo.
+Se quiser trocar uma ideia sobre algo que viu aqui, fique à vontade para falar comigo! Meu  [[content/index#^be5bd5|email]] estã lá embaixo.
 
 ___
 # Como funciona #
