@@ -4,8 +4,8 @@ tipo: conceito
 status: semente
 publish: false
 ---
-[[Barthes]]
+%%[[Barthes]]
 [[Benjamin]]
 [[Campany]]
 [[Bates]]
-[[Scharf]] 
+[[Scharf]] %%

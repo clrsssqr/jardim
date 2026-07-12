@@ -5,7 +5,7 @@ publish: false
 autor: Gombrich
 livro/obra: Arte e Ilusão
 ---
-#resumo #percepção #ilusão #gombrich
+#resumo #percepção #ilusão #gombrich ^4be61c
 
 Fonte: [[Gombrich - Arte e Ilusão|Gombrich - Arte e Ilusão]]
 
@@ -18,13 +18,13 @@ Ver mais em [[Gombrich - Arte e Ilusão - Resumo - Prefácios]]
 ---
 # Introdução - A Psicologia e o Enigma do Estilo #
 
-Gombrich tenta entender porque povos e épocas diferentes representaram o mundo visível de maneiras tão distintas. Ele usa como exemplo a arte egípcia, que parece "errada" aos nossos olhos de hoje. O autor rejeita a ideia de que isso se deva a uma evolução progressiva rumo à "precisão fotográfica" e propõe que o problema é, no fundo, psicológico porque requer entender como a mente humana processa e constrói imagens visuais.
+Gombrich tenta entender porque povos e épocas diferentes representaram o mundo visível de maneiras tão distintas. Ele usa como exemplo a arte egípcia, que parece "errada" aos nossos olhos de hoje. O autor rejeita a ideia de que isso se deva a uma evolução progressiva rumo à "precisão fotográfica" e propõe que o problema é, no fundo, psicológico porque requer entender como a mente humana processa e constrói imagens visuais. ^8bf744
 
 ---
 
 # I. Da Luz à Tinta #
 
-Gombrich utiliza a paisagem de Constable em Wivenhoe Park para demonstrar que mesmo um pintor empenhado em ser fiel à natureza não "copia" simplesmente o que vê, mas constrói a imagem por meio de um processo quase científico de tentativa e erro, ajustando um repertório de recursos pictóricos (luz, cor, pincelada) às limitações do meio. Esse processo é construído ao longo de gerações de pintores.
+Gombrich utiliza a paisagem de Constable em Wivenhoe Park para demonstrar que mesmo um pintor empenhado em ser fiel à natureza não "copia" simplesmente o que vê, mas constrói a imagem por meio de um processo quase científico de tentativa e erro, ajustando um repertório de recursos pictóricos (luz, cor, pincelada) às limitações do meio. Esse processo é construído ao longo de gerações de pintores. ^c6ce49
 
 ---
 
@@ -53,17 +53,17 @@ ___
 
 # VI. A Imagem nas Nuvens #
 
-Usando o diálogo antigo entre Apolônio de Tiana e seu discípulo sobre as formas que vemos nas nuvens, Gombrich introduz o conceito da "participação do espectador", que dita que ler uma imagem exige que o observador projete sobre ela formas e significados já armazenados em sua mente, como no teste de Rorschach.
+Usando o diálogo antigo entre Apolônio de Tiana e seu discípulo sobre as formas que vemos nas nuvens, Gombrich introduz o conceito da "participação do espectador", que dita que ler uma imagem exige que o observador projete sobre ela formas e significados já armazenados em sua mente, como no teste de Rorschach. ^17a8b0
 
 ___
 # VII. Condições da Ilusão #
 
-O autor evoca sua própria experiência de ouvir transmissões de rádio pouco nítidas durante a guerra para explicar como a expectativa molda a percepção. Assim como completamos palavras mal ouvidas, completamos imagens ambíguas. Ou seja, a ilusão pictórica depende tanto da *projeção guiada* do espectador quanto da técnica do artista.
+O autor evoca sua própria experiência de ouvir transmissões de rádio pouco nítidas durante a guerra para explicar como a expectativa molda a percepção. Assim como completamos palavras mal ouvidas, completamos imagens ambíguas. Ou seja, a ilusão pictórica depende tanto da *projeção guiada* do espectador quanto da técnica do artista. ^ba33f0
 
 ___
 # VIII. Ambiguidades da Terceira Dimensão  
 
-Gombrich examina como pinturas bidimensionais sugerem profundidade e espaço, explorando exemplos de anúncios e símbolos ambíguos (como o "olho de boi" do metrô de Londres) para mostrar que uma mesma forma pode ser lida de modos radicalmente diferentes, mas nunca simultaneamente.
+Gombrich examina como pinturas bidimensionais sugerem profundidade e espaço, explorando exemplos de anúncios e símbolos ambíguos (como o "olho de boi" do metrô de Londres) para mostrar que uma mesma forma pode ser lida de modos radicalmente diferentes, mas nunca simultaneamente. ^1efd7b
 
 ___
 # IX. A Análise da Visão na Arte #
@@ -86,4 +86,4 @@ ___
 
 # Retrospecto #
 
-Gombrich recapitula sua tese central que aforma que "fazer precede o combinar" (*making before matching*) e que toda visão é inseparável do conhecimento. Ele retomando um texto anterior seu de _A História da Arte_, já mencionado no prefácio, para mostrar como artistas de todas as épocas, dos egípcios aos impressionistas, sempre trabalharam a partir de convenções, nunca de uma percepção "pura" e não mediada da realidade.
+Gombrich recapitula sua tese central que aforma que "fazer precede o combinar" (*making before matching*) e que toda visão é inseparável do conhecimento. Ele retomando um texto anterior seu de _A História da Arte_, já mencionado no prefácio, para mostrar como artistas de todas as épocas, dos egípcios aos impressionistas, sempre trabalharam a partir de convenções, nunca de uma percepção "pura" e não mediada da realidade. ^885dff
