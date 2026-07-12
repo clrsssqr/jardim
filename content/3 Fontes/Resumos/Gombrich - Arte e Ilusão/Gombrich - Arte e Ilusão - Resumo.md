@@ -20,6 +20,8 @@ Ver mais em [[Gombrich - Arte e Ilusão - Resumo - Prefácios]]
 
 Gombrich tenta entender porque povos e épocas diferentes representaram o mundo visível de maneiras tão distintas. Ele usa como exemplo a arte egípcia, que parece "errada" aos nossos olhos de hoje. O autor rejeita a ideia de que isso se deva a uma evolução progressiva rumo à "precisão fotográfica" e propõe que o problema é, no fundo, psicológico porque requer entender como a mente humana processa e constrói imagens visuais. ^8bf744
 
+[[Gombrich - Arte e ilusão -  Resumo - Introdução|Leia mais]]
+
 ---
 
 # I. Da Luz à Tinta #
@@ -80,10 +82,10 @@ ___
 
 # XI. Da Representação à Expressão #
 
-O capítulo final discute como formas visuais podem ter qualidades expressivas e "fisionômicas" próprias, comparando a representação pictórica à onomatopeia na linguagem verbal. Ele se dedica também a mostrar como a arte moderna se afastouda representação de aparências para explorar diretamente essa dimensão expressiva.
+O capítulo final discute como formas visuais podem ter qualidades expressivas e "fisionômicas" próprias, comparando a representação pictórica à onomatopeia na linguagem verbal. Ele se dedica também a mostrar como a arte moderna se afastou da representação de aparências para explorar diretamente essa dimensão expressiva.
 
 ___
 
 # Retrospecto #
 
-Gombrich recapitula sua tese central que aforma que "fazer precede o combinar" (*making before matching*) e que toda visão é inseparável do conhecimento. Ele retomando um texto anterior seu de _A História da Arte_, já mencionado no prefácio, para mostrar como artistas de todas as épocas, dos egípcios aos impressionistas, sempre trabalharam a partir de convenções, nunca de uma percepção "pura" e não mediada da realidade. ^885dff
+Gombrich recapitula sua tese central que afirma que "fazer precede o combinar" (*making before matching*) e que toda visão é inseparável do conhecimento. Ele retoma um texto anterior seu de _A História da Arte_, já mencionado no prefácio, para mostrar como artistas de todas as épocas, dos egípcios aos impressionistas, sempre trabalharam a partir de convenções, nunca de uma percepção "pura" e não mediada da realidade. ^885dff

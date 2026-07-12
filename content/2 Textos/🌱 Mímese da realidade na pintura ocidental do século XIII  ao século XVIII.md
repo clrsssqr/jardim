@@ -4,7 +4,7 @@ tipo: conceito
 status: broto
 publish: true
 ---
-A arte ocidental se constrói a partir da verossimilhança desde desde o século XIII [^1] [^2] [^3].
+A arte ocidental se constrói a partir da verossimilhança a partir do princípio da mímese da realidade desde desde o século XIII [^1] [^2] [^3].
 
 %%
 
@@ -29,13 +29,15 @@ Do século XIII ao século XVIII, a pintura europeia estava majoritariamente a s
 
 Ainda assim, é preciso ressaltar que a evolução da arte ocidental não pode ser entendida como um progresso em direção à uma imagem cada vez mais fidedigna, como Gombrich comprova em [[Gombrich - Arte e Ilusão - Resumo|Arte e Ilusão]][^4]. Neste livro, o autor se dedica a entender a questão do estilo, e da verossimilhança nas imagens. Trata-se de um estudo sobre por que a representação visual tem uma história, o que significa tentar entender por que diferentes épocas e culturas retrataram o mundo de formas distintas e por que levou milênios até a arte ocidental desenvolver a ilusão convincente de "realidade" que associamos ao naturalismo. 
 
-A tese principal de Gombrich é a de que "fazer precede o combinar" (*making before matching*), que afirma que nenhum artista parte de uma observação pura e inocente da natureza, mas de um repertório herdado de esquemas, fórmulas e convenções — um vocabulário visual construído pela tradição — que depois vai ajustando e corrigindo, pouco a pouco, à luz da experiência e da observação. Esse processo de "esquema e correção" explica tanto a rigidez da arte egípcia quanto a "revolução" naturalista grega e o eventual triunfo da perspectiva e do *sfumato* renascentistas. Os artistas, portanto, começam herdando um sistema que e cada um realiza pequenos avanços que acumulam invenções técnicas, analogamente à experimentação científica. [^4]
+A tese principal de Gombrich [^4] é a de que "fazer precede o combinar" (*making before matching*), que afirma que nenhum artista parte de uma observação pura e inocente da natureza, mas de um repertório herdado de esquemas, fórmulas e convenções — um vocabulário visual construído pela tradição — que depois vai ajustando e corrigindo, pouco a pouco, à luz da experiência e da observação. Esse processo de "esquema e correção" explica tanto a rigidez da arte egípcia quanto a "revolução" naturalista grega e o eventual triunfo da perspectiva e do *sfumato* renascentistas. Os artistas, portanto, começam herdando um sistema que e cada um realiza pequenos avanços que acumulam invenções técnicas, analogamente à experimentação científica. [^4]
 
-Mas a ilusão não se faz a penas com a tinta na tela, é preciso que haja a participação do espectador, como Gombrich demonstra: 
+Mas a ilusão não se faz a penas com a tinta na tela, é preciso que haja a participação do espectador, como Gombrich  demonstra: 
 
-![[Participação do Espectador na Ilusão Pictórica Ocidental de Acordo com Gombrich]]
+![[🥜 Participação do Espectador na Ilusão Pictórica Ocidental segundo Gombrich]]
 
-%%Além disso, Gombrich também desmonta a ideia ingênua de que "ver" e "saber" seriam processos separáveis, argumentando que toda percepção visual, artística ou não, é inevitavelmente moldada por expectativa, conhecimento prévio e hipótese. Visão e conhecimento são, portanto, inseparáveis. (Gombrich, *Arte e Ilusão*, [[Gombrich - Arte e Ilusão - Resumo#^885dff|capítulo "Retrospecto"]]%%
+A partir do século XVIII, no entanto, os aspectos subjetivos começam a ganhar importância na pintura. %% Elaborar melhor com Hauser, Gombrich e Jones %%
+
+Essa tendência ganha força no Romantismo e vai se intensificando cada vez mais como podemos observar nos demais movimentos artísticos, do simbolismo até as vanguardas modernistas. %%Elaborar um pouco e puxar para uma nova nota - [[O abandono da mímese da relaidade na pintura a partir do século XVIII]]%%
 
 ---
 

@@ -25,7 +25,6 @@ Mas o início do caminho para o romance moderno é, segundo Hauser, a substitui�
 Ao mesmo tempo, na Inglaterra, Defoe e Swift representam dois modelos irreconciliáveis do novo herói. _Robinson Crusoe_ é o primeiro herói da classe média: o triunfo da perseverança, da ação e do bom-senso prático, "a profissão de fé de uma classe que tem ardentes aspirações sociais, consciência da sua força" (p. 695–696). Swift, pelo contrário, cria em _Gulliver_ um anti-herói pessimista que desconfia de tudo o que Robinson celebra.
 
 ---
-
 ### A formação do público leitor e a revolução editorial (século XVIII)
 
 Hauser sublinha que a transformação do romance não pode ser separada das transformações materiais da produção literária. Até meados do século XVII, o único livro que tinha um público verdadeiramente largo era o opúsculo de edificação religiosa; os livros de imaginação secular constituíam "apenas uma pequena fração da produção literária" (p. 692). O que muda ao longo do século XVIII é estrutural:
@@ -38,7 +37,6 @@ Hauser sublinha que a transformação do romance não pode ser separada das tran
 É nesse contexto que Richardson se torna possível, porque ele escreve para um público burguês numeroso, numericamente crescente, que lê com regularidade e que compra livros como prática social estabelecida.
 
 ---
-
 ### Richardson e o romance da vida privada: o herói como pessoa comum (meados do século XVIII)
 
 Richardson é, para Hauser, o criador do romance da vida privada e doméstica, e a figura que realiza a transformação mais radical no conceito de herói. Em vez de príncipes, generais ou cavaleiros, os personagens de Richardson são pessoas da classe média, "não heróis sublimes e heróicos, mas as simples questões do coração" (p. 714). _Pamela_ é o protótipo de todas as histórias modernas em que a heroína resiste às investidas do patrão e acaba casando-se com ele — "a professão de fé de uma classe que tem ardentes aspirações sociais" (p. 716).
@@ -48,7 +46,6 @@ A inovação técnica é inseparável da inovação social: a **forma epistolar*
 Richardson lança também as bases do romance moralizador burguês: a arte como "escola de virtude", que Hauser avalia com reservas — sob o moralismo professo de _Pamela_, detecta um conteúdo de sedução e ambiguidade que torna os romances de Richardson "os germes da arte mais imoral de todos os tempos" (p. 716–717).
 
 ---
-
 ### Rousseau e o herói como consciência em conflito com a sociedade
 
 Rousseau representa, para Hauser, a radicalização de tudo o que Richardson havia posto em movimento. Se Richardson era um "instrumento inconsciente do conservadorismo" que ensinava a heroína a subir na escala social pelo casamento, Rousseau é "o primeiro verdadeiro revolucionário" da literatura do período (p. 723). O herói rousseauniano não é o indivíduo em ascensão, mas o indivíduo em rebelião — a consciência que se recusa à transação com a sociedade e descobre, na natureza e no sentimento, uma alternativa moral à civilização corrompida (p. 720–722).
@@ -56,7 +53,6 @@ Rousseau representa, para Hauser, a radicalização de tudo o que Richardson hav
 Essa mudança é também social: Rousseau escreve como alguém que pertence, de fato, "às camadas inferiores da classe média", e por isso o seu herói é pela primeira vez o representante das "vastas camadas da sociedade, a burguesia inferior e a massa anônima do povo, os oprimidos e os sem-lei" (p. 723).
 
 ---
-
 ### O romance sentimental e o herói romântico: da subjetividade à rebelião (final do século XVIII / início do XIX)
 
 Hauser situa a tradição que vai de Richardson e Rousseau a Goethe (_Werther_) e Chateaubriand como a linha central do desenvolvimento do herói moderno. O _Werther_ é o ponto de inflexão: pela primeira vez, a subjetividade do herói — suas ilusões, seus fracassos, sua incapacidade de se ajustar à "vulgaridade do mundo" — constitui a matéria integral do romance, sem qualquer objetivo exterior que a enquadre (p. 823).
@@ -64,7 +60,6 @@ Hauser situa a tradição que vai de Richardson e Rousseau a Goethe (_Werther_) 
 O herói byroniano é o desenvolvimento mais extremo desta linhagem: misantropo, narcisista, exibicionista, ele "domina toda a literatura do século XIX e ainda se encontra frequentemente nos filmes de crimes de _gangsters_ da nossa época" (p. 864). Hauser mostra que o seu extraordinário sucesso se deve ao fato de encarnar o ressentimento de uma "classe média insatisfeita, ressentida, com propensões românticas, cujos membros falhados se consideravam outros tantos Napoleões não considerados como tais" (p. 867).
 
 ---
-
 ### O romance folhetinesco e a pressão do mercado (1820–1850)
 
 Um fator de transformação que Hauser analisa com particular atenção é o impacto do **folhetim** sobre a forma romanesca. A publicação em partes separadas, dia a dia ou semana a semana, impõe ao romance uma estrutura de suspense e _climax_ sucessivos que altera profundamente a narração: o autor é obrigado a "antecipar e retroagir um contínuo recuar e avançar, criar a cada nova parte um ponto de tensão e exigir constantemente resistências para consolidar o seu" (p. 893). É a pressão do mercado que cria a técnica do _cliffhanger_.
@@ -74,7 +69,6 @@ Hauser observa que é precisamente nesse contexto de mercado de massas que surge
 O crescimento do público é, nesse ponto, dramático: Champfleury afirma que "a Revolução de 1848 influenciaria a literatura, como o novo conceito de popularidade difere do dos antigos escritores de folhetins", enquanto o famoso livreiro Touquet consegue vender 31.000 exemplares, isso é, "1.600.000 volumes das obras de Voltaire entre 1817 e 1824" — sinal de que a classe média dá um "contingente de grande importância ao número dos compradores" (p. 849–850).
 
 ---
-
 ### Stendhal: o herói como energia plebeia em confronto com a hierarquia (1820–1840)
 
 Em Stendhal, o herói é pela primeira vez "surgido de uma classe inferior e pobre, nascido numa nova novel de que se considera a origem sempre como uma humilhação" (p. 908). Julião Sorel é o protótipo: o filho de camponeses que declara guerra a toda a arrogância da classe dominante, e para quem cada êxito sobre a classe dominante é ao mesmo tempo uma vitória e uma humilhação (p. 908–909). Hauser sublinha que Stendhal cria, com Fabrício e Luciano Leuwen, variações do mesmo tipo — "cópias de Julião", a figura do "plebeu indignado", do "deserdado da sorte que declara guerra a toda a sociedade" (p. 909).
@@ -82,7 +76,6 @@ Em Stendhal, o herói é pela primeira vez "surgido de uma classe inferior e pob
 O que é nova também é a **técnica narrativa**: os _petits faits vrais_ de Stendhal — a atenção obsessiva aos detalhes mínimos da vida interior — não significam que "a vida é mais simples", mas, ao contrário, que "o caráter humano é imprevisível e indefinível e que contém inúmeras feições capazes de modificar a ideia abstrata da sua natureza" (p. 917). Nenhum autor até então havia levado tão longe a consciência de que a psicologia do homem moderno é uma "manifestação da nossa impotência na compreensão do homem moderno como o classicismo compreendia o homem dos séculos XVII e XVIII" (p. 917).
 
 ---
-
 ### Balzac: o herói como produto da sociedade total (1830–1850)
 
 Balzac representa para Hauser o momento em que o romance deixa de ser a história de um indivíduo para tornar-se a descrição sistemática de uma sociedade inteira. "Com Stendhal e Balzac o romance social passa a constituir _a_ expressão moderna e parece agora absolutamente impossível caraterizar um personagem sem atender à sociedade" (p. 904). A "definição social dos personagens é agora o critério da sua realidade e verossimilhança", e os "problemas sociais da sua vida, pela primeira vez, fazem destes assuntos os adequados ao novo romance naturalista" (p. 904).
@@ -90,7 +83,6 @@ Balzac representa para Hauser o momento em que o romance deixa de ser a históri
 O herói balzaquiano não tem a intensidade lírica do herói stendhaliano, mas possui um traço que Hauser considera ainda mais revelador: o desejo apaixonado de "deixar-se vencer completamente pela vida, quase nada deixa à observação direta" (p. 928). Balzac é o primeiro escritor em que a posição social do personagem é mais determinante do que a sua vontade individual — e é essa concepção que Hauser aponta como a passagem decisiva do romance romântico ao romance naturalista, de Flaubert a Zola a Tolstói (p. 904–905).
 
 ---
-
 ### Síntese: os fatores de mudança
 
 Hauser não separa a evolução do herói romanesco das transformações materiais que a tornam possível e necessária. Os principais fatores que ele aponta ao longo dos três séculos são:
