@@ -4,7 +4,7 @@ publish: true
 ---
 
 
-<div style="font-size: 4em;">🐇🌱🪲🌳</div>
+<div style="font-size: 4em;">🐇🌱🌻🪲🌳</div>
 
 Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e arte publicamente (ainda que escondidinho), inspirada no conceito de jardim digital. Tem um quê de nostalgia dos sites que diziam "aqui você vai encontrar fotos minhas, letras de música" e um gif de um operário dizendo "este site está eternamente em construção". 
 
