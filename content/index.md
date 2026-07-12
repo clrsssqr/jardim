@@ -1,5 +1,5 @@
 ---
-title: 🐇🌱🌻🐦‍⬛🦋🌳🐌🌿🐜🪲🍑🐞🌹🥜🚲Olá!
+title: Olá!
 publish: true
 ---
 <div style="font-size: 4em;"> 🐇🌱🌻🐦‍⬛🦋🌳🐌🌿🐜🪲🍑🐞🌹🥜🚲  </div>
