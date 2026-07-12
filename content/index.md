@@ -10,7 +10,7 @@ Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e 
 
 A ideia é fugir da rigidez acadêmica e da performance das redes sociais. Aqui você vai encontrar pensamentos soltos e desestruturados e algumas coisas mais ajeitadinhas. Se tudo der certo. Veremos!
 
-Para começar, você pode ver abaixo [[content/index#^2a0c57|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
+Para começar, você pode ver abaixo [[content/index#^1e3819|como funciona]] o jardim virtual ou saber que ando fazendo por [[content/index#^65365d|agora]].
 
 Se quiser trocar uma ideia sobre algo que viu aqui, fique à vontade para falar comigo! Meu  [[index#^be5bd5|email]] estã lá embaixo.
 
@@ -20,20 +20,15 @@ ___
 ^2a0c57
 
 
-Os textos são classificados conforme o grau de maturidade.
+Os textos são classificados conforme o grau de maturidade. ^1e3819
 
-<div style="font-size: 1.5em;">🥜 Sementes </div>
-
-Ideias mais rudimentares e soltas, que ainda serão desenvolvidas.
+<div style="font-size: 1.5em;">🥜 Sementes  - Ideias para serem desenvolvidas</div>
 
 
-<div style="font-size: 1.5em;">🌱 Brotos</div> 
-
-Textos que estão em desenvolvimento, mas ainda sendo trabalhados.
+<div style="font-size: 1.5em;">🌱 Brotos - Textos em desenvolvimento</div> 
 
 
-<div style="font-size: 1.5em;">🌳Árvores</div>
-Ideias que que já estão plenamente elaboradas e organizadas.
+<div style="font-size: 1.5em;">🌳Árvores - Ideias já elaboradas e organizadas</div>.
 
 ___
 # Agora
