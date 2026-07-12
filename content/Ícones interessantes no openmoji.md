@@ -2,7 +2,7 @@
 title:
 tipo: solto
 status: semente
-publish: false
+publish: true
 ---
 https://openmoji.org/library/
 
