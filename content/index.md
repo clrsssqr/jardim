@@ -2,6 +2,7 @@
 title: Olá!
 publish: true
 ---
+<div style="font-size: 4em;"> 🐇🐢🐦‍⬛🪶🦋🐌🐛🪳🐜🪲🐞🦠🪲🐞🍑🥜🌹🌻🌱🌳🌿🚲  </div>
 ![[autorretratoia_600.png|170]]
 
 Este espaço é um experimento onde vou compartilhar meu processo de pesquisa e arte publicamente (ainda que escondidinho), inspirada no conceito de jardim digital. Tem um quê de nostalgia dos sites que diziam "aqui você vai encontrar fotos minhas, letras de música" e um gif de um operário dizendo "este site está eternamente em construção". 
@@ -16,11 +17,12 @@ Se quiser trocar uma ideia sobre algo que viu aqui, meu **email** estã lá emba
 
 Os textos são classificados conforme o grau de maturidade.
 
-🥜 **Sementes** são as ideias mais rudimentares e soltas, que precisam ser regadas para serem mais desenvolvidas.
+<div style="font-size: 1.5em;">🥜 Sementes</div>São as ideias mais rudimentares e soltas, que precisam ser regadas para serem mais desenvolvidas.
 
-🌱 **Brotos** são os textos que estão em desenvolvimento, mas ainda sendo trabalhados.
+<div style="font-size: 1.5em;">🌱 Brotos</div> São os textos que estão em desenvolvimento, mas ainda sendo trabalhados.
 
-🌳**Árvores** são as ideias que que já estão plenamente elaboradas e formalmente organizadas.
+<div style="font-size: 1.5em;">🌳Árvores</div>
+ são as ideias que que já estão plenamente elaboradas e formalmente organizadas.
 
 
 # Agora
