@@ -23,7 +23,7 @@ ___
 
 
 Os textos são classificados conforme o grau de maturidade. ^1e3819
-### 🥜  Sementes  - Ideias para serem desenvolvidas#
+### 🥜  Sementes  - Ideias a serem desenvolvidas#
 
 ### 🌱  Brotos - Textos em desenvolvimento #
 

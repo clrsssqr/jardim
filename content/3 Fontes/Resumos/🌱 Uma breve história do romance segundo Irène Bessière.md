@@ -8,8 +8,6 @@ livro/obra: Le Récit Fantastique
 ---
 #literatura  #fantastico  #bessiere #romance #subjetividadenaarte 
 
-Fonte: [[Hauser - História Social da Literatura e da Arte]]
-
 
 Eis uma breve descrição de como Bessière vê a evolução do romance quando fala sobre o fantástico.
 
@@ -68,4 +66,7 @@ ___
 [^19]: Bessière *Le Récit Fantastique*, 115, p.6 (quando fala do fantástico americano).
 [^20]: Bessière *Le Récit Fantastique*, 119, p.9-10 (quando fala do fantástico americano).
 [^21]: Bessière *Le Récit Fantastique*, 119, p.7-8 (quando fala do fantástico americano).
+
+Fonte: 
+![[Bessière - La Récit Fantastique]]
 

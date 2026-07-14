@@ -8,9 +8,7 @@ livro/obra: História Social da Literatura e da Arte
 ---
 #históriadaarte #arteesociedade #literatura #rococo #neoclassicismo #romantismo #romance #hauser #heroi #subjetividadenaarte
 
-Fonte: [[Hauser - História Social da Literatura e da Arte]]
-
-### O ponto de partida: romance cortesão e herói heróico (século XVII)
+### O romance cortesão e herói heróico (século XVII)
 
 Hauser situa a origem do romance moderno no romance pastoril e heróico do século XVII. A *Astrée de Honoré d'Urfé* é, para ele, "a escola em que os rudes senhores feudais e soldados da época de Henrique IV aprenderam a ser membros de uma sociedade francesa culta" — uma arte cujo público é a corte, e cujo herói é um cavaleiro deslocado para cenários bucólicos (p. 666). O romance pastoril é essencialmente uma ficção de evasão: nunca descreve a vida real do camponês, mas serve às classes superiores como disfarce poético da fuga ao mundo civilizado (p. 662–663).
 
@@ -98,3 +96,8 @@ Hauser não separa a evolução do herói romanesco das transformações materia
 **A Revolução Industrial** aprofunda o divórcio entre capital e trabalho e cria um novo tipo de leitor — o habitante das cidades industriais, alienado, ansioso, que busca no romance uma compensação emocional e um espelho da sua experiência (pp. 703–707).
 
 **O fracasso de 1848** e a supressão da insurreição de junho destroem o idealismo e impõem ao romance, com o naturalismo de Flaubert e Balzac, a disciplina de atenção estrita aos fatos sociais que substitui a esperança pelo conhecimento objetivo — o que Hauser chama de "a experiência política da geração de 1848" como origem do naturalismo (p. 944).
+
+---
+
+Fonte: 
+![[Hauser - História Social da Literatura e da Arte#^beb1fd]]
